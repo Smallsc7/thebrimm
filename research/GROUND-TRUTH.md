@@ -1,6 +1,6 @@
 # Research Machine ground truth: The BRIMM
 
-Derived from BUSINESS-MEMORY.md version 1 (approved 2026-10-01). This is an adapter, not a second copy
+Derived from BUSINESS-MEMORY.md version 1.1 (2026-10-01). This is an adapter, not a second copy
 of the business truth: when BUSINESS-MEMORY.md changes, regenerate this block from it. Do not hand-edit facts here.
 
 ```
@@ -51,8 +51,9 @@ WHAT IS ALREADY BELIEVED ABOUT THE BUYER  (will be tested, not trusted)
     groups and peer advice; sometimes another coach or mastermind; often considering a marketing
     agency or PR on the belief that more marketing fixes everything. Belief that she is "not ready"
     or is embarrassed by her early structure. Spouse (usually husband) is part of the decision
-    because it is an "investment". Main hesitation (owner's paraphrase, untracked): timing and
-    capacity ("I don't think I can take on something else right now").
+    because it is an "investment". Main hesitation (owner reports hearing it; not captured word for word,
+    frequency untracked): help feels like more work, not less: "I can't add one more thing to my
+    plate." / "Shouldn't I do this in a time or season when I'm less busy."
 
 PROOF THAT EXISTS AND CAN BE DEFENDED
   Real numbers, with their source: owner-stated, records still being gathered: a jewelry client
@@ -81,6 +82,8 @@ THE DECISION THIS RESEARCH MUST CHANGE
   What is being decided, and by when: "Which buyers should we prioritize, what message will make
     Founder Forum worth acting on now, and which sales channels should we focus on to enroll seven
     members for the October 14 launch—then grow to about 26 active members by mid-December?"
+    Also test: do ideal buyers see coaching and group programs as more work rather than less,
+    and what would make Founder Forum feel like relief rather than one more thing on her plate?
     First answer needed before October 14, 2026.
 === END GROUND TRUTH ===
 ```

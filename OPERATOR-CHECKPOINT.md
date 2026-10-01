@@ -3,13 +3,13 @@
 Updated: 2026-10-01
 
 Business: The BRIMM (Sallie Ogden), Greenville, SC. One business per project; this project is The BRIMM only.
-Approved brief: BUSINESS-MEMORY.md version 1 (approved with corrections 2026-10-01).
+Approved brief: BUSINESS-MEMORY.md version 1.1 (approved 2026-10-01; objection and research question added same day).
 
 ## Status
 - Installation: The Research Machine package files verified (install.py --verify, release 20260925-onboarding-v13, 37/37); Research practice task passed (local validator). Other Machines: not installed, practice tasks not run.
 - Collector: last30days v3.26.0 installed as a project skill at .claude/skills/last30days (preflight: ready; sources reddit, youtube, hackernews, polymarket, github, grounding). Run it with Python 3.12 (`LAST30DAYS_PYTHON=python3.12`). TikTok, Instagram and X are off (need a ScrapeCreators key or X backend).
 - Business interview: COMPLETE. All 20 core questions, the triggered follow-ups (spend with unknown CPA, list over 1,000 unmailed) and the full-intake fields are answered or recorded as UNKNOWN/OPEN.
-- Artifacts: BUSINESS-MEMORY.md, CONSTRAINT-CARD.md (constraint: OWNED-CHANNEL), research/GROUND-TRUTH.md (derived from BUSINESS-MEMORY.md v1).
+- Artifacts: BUSINESS-MEMORY.md, CONSTRAINT-CARD.md (constraint: OWNED-CHANNEL), research/GROUND-TRUTH.md (derived from BUSINESS-MEMORY.md v1.1).
 - Real-world use: none yet. Interview completion is not evidence of revenue or a working campaign.
 
 ## Unresolved questions
