@@ -1,0 +1,50 @@
+[Planner] Plan: intent=opinion, freshness=balanced, cluster_mode=debate, subqueries=3, source=external
+[Planner]   sq1 label=primary search="business coach worth it small business owner" sources=[reddit,youtube,hackernews]
+[Planner]   sq2 label=no-time search="no time for business coach overwhelmed owner" sources=[reddit,youtube]
+[Planner]   sq3 label=agency-vs-coach search="hired marketing agency waste of money small business" sources=[reddit,youtube]
+[YouTube] Searching YouTube for 'business coach worth it for small business owners' (since 2026-07-03, count=8)
+[HN] Searching for 'business coach worth it small business owner' (raw: 'business coach worth it small business owner', since 2026-07-03, count=30)
+[RedditSearch] r/smallbusiness page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/Entrepreneur page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/Entrepreneur page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/EtsySellers page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/sweatystartup page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[YouTube] YouTube search returned 0 results
+[YouTube] Searching YouTube for 'business coach worth it for small business owners review reaction breakdown' (since 2026-07-03, count=8)
+[RedditSearch] r/Entrepreneur page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/InteriorDesign page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[YouTube] YouTube search returned 0 results
+[RedditSearch] r/smallbusiness page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/sweatystartup page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] global page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/smallbusiness page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/Etsy page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/EtsySellers page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] global page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] global page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/InteriorDesign page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/sweatystartup page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[HN] Search failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/InteriorDesign page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/Etsy page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/Etsy page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[RedditSearch] r/EtsySellers page 1 failed: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/smallbusiness: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Entrepreneur: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/EtsySellers: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/InteriorDesign: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/sweatystartup: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Etsy: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/smallbusiness: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Entrepreneur: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/EtsySellers: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/smallbusiness: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/InteriorDesign: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Entrepreneur: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/sweatystartup: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/EtsySellers: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Etsy: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/InteriorDesign: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/sweatystartup: URL Error: Tunnel connection failed: 403 Forbidden
+[ArcticShift] listing search failed r/Etsy: URL Error: Tunnel connection failed: 403 Forbidden
+    "hackernews": "auth-failed",
