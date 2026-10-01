@@ -1,0 +1,71 @@
+{
+ "schema_version": "1.0.0",
+ "run": {
+  "status": "blocked",
+  "collection_tier": "collector",
+  "run_id": "2997",
+  "started_at": "2026-10-01T22:06:18Z",
+  "finished_at": "2026-10-01T22:08:52Z",
+  "market": "US (and other English-speaking) women business owners, roughly $100K+ in sales, often creatives, considering growth help (coaching, masterminds, agencies)",
+  "business": "The BRIMM / Founder Forum (ground truth: research/GROUND-TRUTH.md, from BUSINESS-MEMORY.md v1.1)",
+  "decision": "Which buyers should we prioritize, what message will make Founder Forum worth acting on now, and which sales channels should we focus on to enroll seven members for the October 14 launch\u2014then grow to about 26 active members by mid-December? Also: do ideal buyers see coaching as more work rather than less, and what would make Founder Forum feel like relief?",
+  "blocked_reason": "This workspace's network policy denies the hosts collection needs. last30days: reddit unreachable (proxy 403 on CONNECT www.reddit.com:443), hackernews auth-failed, youtube no-results. Method-only fallback: WebSearch returns titles and generated summaries only; WebFetch is blocked for reddit.com, substack.com and growwiththebrimm.com, so no discussion or review page could be opened.",
+  "stop_rule_fired": "no collection possible on this host's network policy"
+ },
+ "coverage": {
+  "sources_searched": [
+   "reddit",
+   "youtube",
+   "hackernews",
+   "host web search"
+  ],
+  "sources_returning_usable": [],
+  "sources_unavailable": [
+   "reddit",
+   "hackernews",
+   "youtube",
+   "tiktok",
+   "instagram",
+   "x",
+   "web page fetch",
+   "search-demand"
+  ],
+  "sources_unavailable_reason": "network egress policy of the cloud environment; TikTok, Instagram and X additionally have no credentials configured",
+  "queries_run": [
+   "business coach worth it small business owner",
+   "no time for business coach overwhelmed owner",
+   "hired marketing agency waste of money small business",
+   "reddit small business owner business coach worth it too busy (web search)"
+  ],
+  "discussions_opened": 0,
+  "review_pages_opened": 0,
+  "own_buyer_items": 1,
+  "own_buyer_note": "one prospect discovery call (Prospect L.W., 2026-09-24), summarized in BUSINESS-MEMORY.md; not re-analysed in a blocked run",
+  "quotes_captured": 0,
+  "window_days": 90,
+  "confidence": null,
+  "confidence_unknown_reason": "nothing was collected"
+ },
+ "asks": [
+  {
+   "ask": "Open network access for this environment (full, or allow reddit.com, youtube.com, googlevideo.com, hn.algolia.com and general web fetch)",
+   "why": "collection cannot reach any market source from here",
+   "cheapest_way": "environment settings -> Edit -> Network access, then start a new session"
+  },
+  {
+   "ask": "Add 'uv tool install yt-dlp' to the setup script and LAST30DAYS_PYTHON=python3.12 as an environment variable",
+   "why": "YouTube comments and the collector's Python requirement in new sessions",
+   "cheapest_way": "environment settings -> Edit"
+  },
+  {
+   "ask": "Optional: free ScrapeCreators key",
+   "why": "TikTok and Instagram comments, where much of this audience talks",
+   "cheapest_way": "the collector offers it on first run"
+  },
+  {
+   "ask": "Own-buyer material: more sales-call recordings or notes, testimonials, workshop feedback, reasons people said no",
+   "why": "own-buyer evidence outranks public conversation and is reachable regardless of network",
+   "cheapest_way": "upload transcripts or paste notes into the next session"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "intent": "opinion",
+  "freshness_mode": "balanced",
+  "cluster_mode": "theme",
+  "subqueries": [
+    {"label":"primary","search_query":"business coach worth it small business owner","ranking_query":"Firsthand posts from small business owners (especially women, creatives, product or service businesses doing roughly 100k+ in sales) deciding whether hiring a business coach, mastermind or consultant was worth it, or why they did not. Exclude coaches promoting their own services.","sources":["reddit","youtube","hackernews"],"weight":1.0},
+    {"label":"no-time","search_query":"no time for business coach overwhelmed owner","ranking_query":"Small business owners saying they are too busy, maxed out, or cannot add one more thing, especially about coaching, programs or masterminds feeling like more work. Exclude vendor marketing.","sources":["reddit","youtube"],"weight":0.9},
+    {"label":"agency-vs-coach","search_query":"hired marketing agency waste of money small business","ranking_query":"Owners who hired a marketing agency or PR firm hoping for more sales and describe what happened. Exclude agencies advertising.","sources":["reddit","youtube"],"weight":0.8}
+  ]
+}

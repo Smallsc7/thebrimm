@@ -1,0 +1,6 @@
+2026-10-01 method-only fallback check
+- WebSearch tool: returned result titles/URLs plus a generated summary only (vendor and blog pages; summary included an unsourced statistic). No pages opened. Not usable as evidence.
+- WebFetch https://www.reddit.com/r/smallbusiness/search/?q=business+coach+worth+it -> "unable to fetch from www.reddit.com"
+- WebFetch https://21hats.substack.com/p/everyone-needs-a-coach -> EGRESS_BLOCKED by network egress proxy
+- WebFetch https://www.growwiththebrimm.com (earlier, same session) -> EGRESS_BLOCKED
+Proxy status: recentRelayFailures connect_rejected 403 for www.reddit.com:443
