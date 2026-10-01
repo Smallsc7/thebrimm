@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "s1",
+    "url": "https://www.reddit.com/r/StandingDesk/comments/1vx0aha/best_adjustable_desk_im_having_a_harder_time/",
+    "platform": "reddit",
+    "subreddit": "StandingDesk",
+    "title": "Best adjustable desk? I'm having a harder time choosing than I expected",
+    "query": "standing desk wobble too much",
+    "published_at": "2026-08-24",
+    "collected_at": "2026-09-07T07:06:35Z",
+    "body_text_returned": false,
+    "dedup_note": "unique"
+  },
+  {
+    "source_id": "s2",
+    "url": "https://www.reddit.com/r/StandingDesk/comments/1w7p9f5/trying_to_snag_a_labor_day_weekend_deal_i_need/",
+    "platform": "reddit",
+    "subreddit": "StandingDesk",
+    "title": "Trying to snag a Labor Day Weekend deal - I need recs/reviews for the Best 4 Legged Standing Desk for women!",
+    "query": "standing desk wobble too much",
+    "published_at": "2026-09-05",
+    "collected_at": "2026-09-07T07:06:35Z",
+    "body_text_returned": false,
+    "dedup_note": "unique"
+  },
+  {
+    "source_id": "s3",
+    "url": "https://www.reddit.com/r/StandingDesk/comments/1vwsmef/picked_up_my_uplift_standing_desk_for_200_any/",
+    "platform": "reddit",
+    "subreddit": "StandingDesk",
+    "title": "Picked up my Uplift standing desk for $200 any suggestions for accessories and monitor arms",
+    "query": "standing desk wobble too much",
+    "published_at": "2026-08-24",
+    "collected_at": "2026-09-07T07:06:35Z",
+    "body_text_returned": false,
+    "dedup_note": "unique"
+  }
+]

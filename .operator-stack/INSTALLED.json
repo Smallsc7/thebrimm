@@ -1,0 +1,11 @@
+{
+  "the-research-machine": {
+    "release": "20260925-onboarding-v13",
+    "host": "claude-code",
+    "skills": [
+      "operator-resources-research",
+      "operator-start",
+      "research-machine"
+    ]
+  }
+}

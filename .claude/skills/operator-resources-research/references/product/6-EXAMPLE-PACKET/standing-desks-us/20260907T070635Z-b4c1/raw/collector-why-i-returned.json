@@ -1,0 +1,169 @@
+{
+  "clusters": [
+    {
+      "engagement_total": 4,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "Why standing at your desk may be little better than sitting",
+      "title": "Why standing at your desk may be little better than sitting"
+    },
+    {
+      "engagement_total": 5,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "The greenest building is the one still standing after a disaster",
+      "title": "The greenest building is the one still standing after a disaster"
+    },
+    {
+      "engagement_total": 4,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "Parquet: What floor are we standing on?",
+      "title": "Parquet: What floor are we standing on?"
+    },
+    {
+      "engagement_total": 198,
+      "sources": [
+        "reddit"
+      ],
+      "summary": "I feel like this post is you trying to justify your purchase to yourself. But hey, if you\u2019re happy with it, that\u2019s what matters.My opinion is that an OLED is vastly superior to a mini LED and it isn\u2019t As someone with a Samsung G8 (4K QD-OLED 240Hz 32\") who uses it for 8hrs a day on VS Code and Jira and then games on it using a PS5 Pro since 2yrs now, as well has an LG C4 55\" that basically is kept You only live once baba, buy what you like :) not what others think.",
+      "title": "Bought the ACER XV275K P5 Mini-LED Monitor - and why I chose to skip OLED"
+    },
+    {
+      "engagement_total": 5,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "Standing up for what's right, requires friends",
+      "title": "Standing up for what's right, requires friends"
+    },
+    {
+      "engagement_total": 3,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "Show HN: Grok-ultracode \u2013 standing ultracode for Grok Build CLI",
+      "title": "Show HN: Grok-ultracode \u2013 standing ultracode for Grok Build CLI"
+    },
+    {
+      "engagement_total": 3,
+      "sources": [
+        "hackernews"
+      ],
+      "summary": "Two Bets on Standing Still, and a Dark Horse",
+      "title": "Two Bets on Standing Still, and a Dark Horse"
+    }
+  ],
+  "freshness_verdicts": [],
+  "generated_at": "2026-09-07T07:05:01.109687Z",
+  "query": "why I returned my standing desk",
+  "results": [
+    {
+      "candidate_id": "https://economist.com/science-and-technology/2026/08/14/why-standing-at-your-desk-may-be-little-better-than-sitting",
+      "cluster": 0,
+      "engagement": {
+        "comments": 0,
+        "points": 4
+      },
+      "published_at": "2026-08-15",
+      "relevance_score": 0.2554,
+      "source": "hackernews",
+      "summary": "Why standing at your desk may be little better than sitting",
+      "title": "Why standing at your desk may be little better than sitting",
+      "url": "https://www.economist.com/science-and-technology/2026/08/14/why-standing-at-your-desk-may-be-little-better-than-sitting"
+    },
+    {
+      "candidate_id": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313",
+      "cluster": 1,
+      "engagement": {
+        "comments": 0,
+        "points": 5
+      },
+      "published_at": "2026-09-02",
+      "relevance_score": 0.0524,
+      "source": "hackernews",
+      "summary": "The greenest building is the one still standing after a disaster",
+      "title": "The greenest building is the one still standing after a disaster",
+      "url": "https://theconversation.com/the-greenest-building-is-the-one-still-standing-after-a-disaster-290313"
+    },
+    {
+      "candidate_id": "https://oleander.dev/parquet",
+      "cluster": 2,
+      "engagement": {
+        "comments": 0,
+        "points": 4
+      },
+      "published_at": "2026-08-27",
+      "relevance_score": 0.0475,
+      "source": "hackernews",
+      "summary": "Parquet: What floor are we standing on?",
+      "title": "Parquet: What floor are we standing on?",
+      "url": "https://oleander.dev/parquet"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/indiangaming/comments/1vtfrob/bought_the_acer_xv275k_p5_miniled_monitor_and_why",
+      "cluster": 3,
+      "engagement": {
+        "num_comments": 99,
+        "score": 198
+      },
+      "published_at": "2026-08-20",
+      "relevance_score": 0.0436,
+      "source": "reddit",
+      "summary": "I feel like this post is you trying to justify your purchase to yourself. But hey, if you\u2019re happy with it, that\u2019s what matters.My opinion is that an OLED is vastly superior to a mini LED and it isn\u2019t As someone with a Samsung G8 (4K QD-OLED 240Hz 32\") who uses it for 8hrs a day on VS Code and Jira and then games on it using a PS5 Pro since 2yrs now, as well has an LG C4 55\" that basically is kept You only live once baba, buy what you like :) not what others think.",
+      "title": "Bought the ACER XV275K P5 Mini-LED Monitor - and why I chose to skip OLED",
+      "url": "https://www.reddit.com/r/IndianGaming/comments/1vtfrob/bought_the_acer_xv275k_p5_miniled_monitor_and_why/"
+    },
+    {
+      "candidate_id": "https://youtube.com/watch?v=w10ydyqsl-u",
+      "cluster": 4,
+      "engagement": {
+        "comments": 0,
+        "points": 5
+      },
+      "published_at": "2026-08-10",
+      "relevance_score": 0.0337,
+      "source": "hackernews",
+      "summary": "Standing up for what's right, requires friends",
+      "title": "Standing up for what's right, requires friends",
+      "url": "https://www.youtube.com/watch?v=w10yDYqsl-U"
+    },
+    {
+      "candidate_id": "https://github.com/malakhov-dmitrii/grok-ultracode",
+      "cluster": 5,
+      "engagement": {
+        "comments": 0,
+        "points": 3
+      },
+      "published_at": "2026-08-21",
+      "relevance_score": 0.0288,
+      "source": "hackernews",
+      "summary": "Show HN: Grok-ultracode \u2013 standing ultracode for Grok Build CLI",
+      "title": "Show HN: Grok-ultracode \u2013 standing ultracode for Grok Build CLI",
+      "url": "https://github.com/malakhov-dmitrii/grok-ultracode"
+    },
+    {
+      "candidate_id": "https://kernel.pryanic.com/posts/two-bets-on-standing-still-and-a-dark-horse",
+      "cluster": 6,
+      "engagement": {
+        "comments": 0,
+        "points": 3
+      },
+      "published_at": "2026-08-21",
+      "relevance_score": 0.0276,
+      "source": "hackernews",
+      "summary": "Two Bets on Standing Still, and a Dark Horse",
+      "title": "Two Bets on Standing Still, and a Dark Horse",
+      "url": "https://kernel.pryanic.com/posts/two-bets-on-standing-still-and-a-dark-horse"
+    }
+  ],
+  "schema_version": "1.2",
+  "source_status": {
+    "hackernews": "ok",
+    "reddit": "ok"
+  },
+  "window_days": 30
+}

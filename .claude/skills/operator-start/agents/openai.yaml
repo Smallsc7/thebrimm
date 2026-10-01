@@ -1,0 +1,6 @@
+interface:
+  display_name: "Start your Operator Stack"
+  short_description: "Complete installation, interview and first useful job"
+  default_prompt: "Use $operator-start for the job I request: installation check, full business interview, or continuing this business project. Use its own resources; do not search connected accounts for installation files."
+policy:
+  allow_implicit_invocation: true

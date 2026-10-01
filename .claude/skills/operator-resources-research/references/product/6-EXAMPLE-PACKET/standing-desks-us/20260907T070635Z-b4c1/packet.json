@@ -1,0 +1,92 @@
+{
+ "schema_version": "1.0.0",
+ "run": {
+  "status": "partial",
+  "collection_tier": "collector",
+  "run_id": "b4c1",
+  "started_at": "2026-09-07T07:05:01Z",
+  "finished_at": "2026-09-07T07:06:36Z",
+  "market": "standing desks, US, English",
+  "decision": "Example only. No real business decision was attached to this run.",
+  "stop_rule_fired": "no new material after query reformulation; keyless sources exhausted"
+ },
+ "coverage": {
+  "sources_searched": [
+   "reddit",
+   "hackernews"
+  ],
+  "sources_returning_usable": [
+   "reddit"
+  ],
+  "sources_unavailable": [
+   "tiktok",
+   "instagram",
+   "x",
+   "youtube",
+   "search-demand"
+  ],
+  "sources_unavailable_reason": "run restricted to keyless sources so the example is reproducible at zero cost",
+  "queries_run": [
+   "why I returned my standing desk",
+   "standing desk not worth it regret",
+   "standing desk wobble too much"
+  ],
+  "discussions_opened": 0,
+  "review_pages_opened": 0,
+  "depth_bar_met": false,
+  "quotes_captured": 0,
+  "quotes_captured_note": "the collector returned titles and URLs but no post bodies, a documented failure mode; no verbatim buyer language was banked",
+  "own_buyer_evidence": "none",
+  "window_days": 30,
+  "confidence": "low"
+ },
+ "desires": [
+  {
+   "id": "d1",
+   "name": "choose without regretting it",
+   "label": "INFERRED",
+   "inferred_from": "s1 title wording, which is the only text the collector returned",
+   "source_ids": [
+    "s1"
+   ],
+   "note": "One post is not a desire. Recorded as a candidate to check, not a finding.",
+   "intensity_tier": null,
+   "intensity_tier_unknown_reason": "no body text or comments were collected, so felt urgency was never observed",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no search-demand tool was configured for this run"
+  },
+  {
+   "id": "d2",
+   "name": "a desk that does not wobble",
+   "label": "ASSUMPTION",
+   "test": "run the same query with post bodies and comments enabled, and read 10 threads plus 3 review pages, before treating wobble as a desire rather than a query artefact",
+   "note": "This came from the query wording, not from the market. It is listed to be disproved.",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no search-demand tool was configured for this run"
+  }
+ ],
+ "phrase_bank": {
+  "observed_titles": [
+   {
+    "text": "having a harder time choosing than I expected",
+    "label": "OBSERVED",
+    "source_ids": [
+     "s1"
+    ]
+   }
+  ],
+  "not_found_in_corpus": [],
+  "not_found_note": "a not-found list needs a corpus. Three titles is not a corpus, so none is asserted."
+ },
+ "avatars": [],
+ "avatars_note": "No avatar was built. The schema requires evidence, and this run captured none of the depth fields.",
+ "lead_desire": null,
+ "lead_desire_unknown_reason": "status is partial: the depth bar was not met and no verbatim buyer language was captured, so naming a lead desire would be an invention",
+ "gaps": [
+  "No post bodies or comments were collected. This is the single blocking gap.",
+  "No own-buyer evidence existed for this example.",
+  "No demand proxy: no search-demand provider was configured.",
+  "Two of three queries returned nothing on-topic. The first matched unrelated Hacker News posts on the word 'standing'."
+ ],
+ "next_cheapest_action": "Re-run with comment enrichment and a ScrapeCreators key, then open ten r/StandingDesk threads by hand and bank verbatim language before any desire is ranked."
+}

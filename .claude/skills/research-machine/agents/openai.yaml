@@ -1,0 +1,6 @@
+interface:
+  display_name: "The Research Machine"
+  short_description: "Automated market research: one packet every Machine reads"
+  default_prompt: "Use $research-machine to research my market from the ground-truth block I paste."
+policy:
+  allow_implicit_invocation: true

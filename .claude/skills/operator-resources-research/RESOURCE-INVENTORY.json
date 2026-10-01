@@ -1,0 +1,43 @@
+{
+  "product": "research",
+  "requiredSkills": [
+    "operator-start",
+    "research-machine"
+  ],
+  "skillFiles": {
+    "operator-start/SKILL.md": "ba22d31a94bfc2bd568596a3e1df57193fcd7a95b5eb00344f6ce828915e63e3",
+    "operator-start/agents/claude-ai-description.txt": "af35e254da8c81daf12dad32b507c0e6e15abfbbdb082da6d67fac6d33ae38e7",
+    "operator-start/references/02-OUTPUT-CONTRACT.md": "e24b1f18d256ec3aabed46205bd4b11bde76c81587144e9cc8288a14bae7fd20",
+    "operator-start/references/03-CONSTRAINT-DIAGNOSIS.md": "6aceeee72326ec9135f2eada971a00e4c6710e79e4bb8282490b1caecfa02775",
+    "operator-start/references/04-MACHINE-CATALOG.md": "56dece826ba0d4114a8d2a9cf6c003215fefc23125c0911ff95463492ce2d199",
+    "operator-start/references/full-interview.md": "24ac47a2ca6499f2b2230951291125a8701f4f8b4b2c121fbf2a862b3776a730",
+    "operator-start/references/installation-tests.md": "ff1cfef9a0e54bad4ec0a8211821c228c31f1a7bc6fdfd3fdc108cf0844ff505",
+    "operator-start/references/intake-officer-interview.md": "9614f9d2f928c97bda9644508513294e6c092114070da1f07a5744ba2679aced",
+    "research-machine/SKILL.md": "db83493fedba18689ca4fd1d43adb0bb6d75df2cc901c44737c532a84cf2d964",
+    "research-machine/agents/claude-ai-description.txt": "da77510a4ecbae8b6d75f811154d895bdfb82f98ca6fcdfeaf893994b99e62e3",
+    "research-machine/references/01-ground-truth-contract.md": "cf7a0bf7e20f0e5d14d4977494c7a735e445d8631dac8976df9286a96c3450ce",
+    "research-machine/references/02-collection-engine.md": "a389cea9dde786f6a1ebff30ebe9cfe5cd5c02bdc250dd840594b685754f47af",
+    "research-machine/references/03-desire-engine.md": "b689982ed975e10afb0ed60dd1a1552bcadbd386dd410ba305be9df8b56b1a98",
+    "research-machine/references/04-avatar-engine.md": "241a1567c63cdce4c6182d1ee2ce60b68eaad9d2b373e122d4307688a106367c",
+    "research-machine/references/05-evidence-standard.md": "b32bd6d5a1286d1eabc02f79bbe97270293252e9939488162fc2367043c6e94a",
+    "research-machine/references/06-output-contract.md": "ebb91f7477cc71b21a9c57ccdc5fa8ecc26c2dc37ddeb709d8248341d0fb0f78",
+    "research-machine/references/07-automation.md": "7fa5fb93a6b2306c00276aef0ea106ca7aa4a33720840fcf1670f3568b76798f",
+    "research-machine/references/08-avatar-schema.md": "707dc845fc2a5535d33cbdef067ceb437f6a5164b511767a7a21a470601031e5",
+    "research-machine/scripts/validate_packet.py": "581185ef82e038fe4324bbe7162bea56cc10fc4f2d30c9fe7a05c9e760a45fce"
+  },
+  "files": {
+    "SKILL.md": "dd6f004f8b332caee6bce29e28602c6c46b45244859a882631c38a6c76909508",
+    "references/product/0-START-HERE.md": "9ceeeb63a6de12ce16d8ec0a67cb2ba74a2a184fe20a289f6d7faf7b6c265f85",
+    "references/product/2-QUICKSTART-first-run.md": "6d264763524875aa63e6de6a22efb9a2b54f58e91c3b1b50fc20ca178627faac",
+    "references/product/3-WHAT-IT-READS.md": "82f22254d00a130874a70971e3edc36dc4e2e7b5f5386389eef3dd51792fd8a6",
+    "references/product/4-EXAMPLE-PROMPTS.md": "fa1ad76fddfeb9281dabe6ee0b7cd2cf952f0449899df82a9758961ceee3eb7b",
+    "references/product/5-WHATS-NEXT.md": "4f60ae711c17af5ce26af1680b15d5d1ba7d33d1057c164697fa71ba6e5dc1f0",
+    "references/product/6-EXAMPLE-PACKET/standing-desks-us/20260907T070635Z-b4c1/PACKET.md": "51a2becd5d4617c17ce9047f8482c0511e764452bfdf6ce068d0c6f6141f87ce",
+    "references/product/6-EXAMPLE-PACKET/standing-desks-us/20260907T070635Z-b4c1/packet.json": "4b281b975f36f4cb6af9c061f17a90e66dcc0beb6e60c1e537b86770f3b84a85",
+    "references/product/6-EXAMPLE-PACKET/standing-desks-us/20260907T070635Z-b4c1/raw/collector-standing-desk-wobble.json": "fa61ee59dedf785e1e246570d59aee608315328540a44c43672f7d99d9182ff5",
+    "references/product/6-EXAMPLE-PACKET/standing-desks-us/20260907T070635Z-b4c1/raw/collector-why-i-returned.json": "cde8a47c6b584a73102888a90e859ee41cb68eb5dac36742bc5d698fa95a5572",
+    "references/product/6-EXAMPLE-PACKET/standing-desks-us/20260907T070635Z-b4c1/sources.json": "7f8cc30b8082c56b72bd95da5427c54a062c89ff4ccf0d9a70f4d1d4fdf53df2",
+    "references/product/DISCLAIMER.md": "fa93a95106bf5dd433f7b208e9033fa4e13436836416ecba10731a9551c3c835",
+    "references/product/LICENSE.md": "ca9ec335086ffc7ed65da64878d980ce58dce7c22365a958aa145f491c890a83"
+  }
+}

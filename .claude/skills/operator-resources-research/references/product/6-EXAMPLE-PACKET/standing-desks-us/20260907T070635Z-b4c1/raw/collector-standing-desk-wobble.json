@@ -1,0 +1,80 @@
+{
+  "clusters": [
+    {
+      "engagement_total": 42,
+      "sources": [
+        "reddit"
+      ],
+      "summary": "Id go with the Flexispot E7 or Uplift v3 I prioritize stability and reliability. I went with a Deskhaus Apex Pro Max. It was expensive (caught a sale), but it exceeded all my expectations. It is not easy to move. I second this i have the uplift v3 4 leg and it wobbles",
+      "title": "Best adjustable desk? I'm having a harder time choosing than I expected"
+    },
+    {
+      "engagement_total": 7,
+      "sources": [
+        "reddit"
+      ],
+      "summary": "If you're in the US, check out Best Buy. They have some desks $250 or less that are highly rated and would probably get the job done for you. I got some random desk from there on sale a few years ago they don't sell any 4 leg standing desks unfortunately! Ahhhhh. Come to think of it, I don't think I've ever seen a 4 leg standing desk before. I didn't know they existed!",
+      "title": "Trying to snag a Labor Day Weekend deal - I need recs/reviews for the Best 4 Legged Standing Desk for women!"
+    },
+    {
+      "engagement_total": 3,
+      "sources": [
+        "reddit"
+      ],
+      "summary": "Nice score, is the desk motor quiet going up and down, or is it loud? It's quiet compared to the one our office manaher has which she got on Amazon Check out the recs here: https://standingdeskreference.com/recommendations.html",
+      "title": "Picked up my Uplift standing desk for $200 any suggestions for accessories and monitor arms"
+    }
+  ],
+  "freshness_verdicts": [],
+  "generated_at": "2026-09-07T07:06:35.877837Z",
+  "query": "standing desk wobble too much",
+  "results": [
+    {
+      "candidate_id": "https://reddit.com/r/standingdesk/comments/1vx0aha/best_adjustable_desk_im_having_a_harder_time",
+      "cluster": 0,
+      "engagement": {
+        "num_comments": 22,
+        "score": 42
+      },
+      "published_at": "2026-08-24",
+      "relevance_score": 0.5012,
+      "source": "reddit",
+      "summary": "Id go with the Flexispot E7 or Uplift v3 I prioritize stability and reliability. I went with a Deskhaus Apex Pro Max. It was expensive (caught a sale), but it exceeded all my expectations. It is not easy to move. I second this i have the uplift v3 4 leg and it wobbles",
+      "title": "Best adjustable desk? I'm having a harder time choosing than I expected",
+      "url": "https://www.reddit.com/r/StandingDesk/comments/1vx0aha/best_adjustable_desk_im_having_a_harder_time/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/standingdesk/comments/1w7p9f5/trying_to_snag_a_labor_day_weekend_deal_i_need",
+      "cluster": 1,
+      "engagement": {
+        "num_comments": 3,
+        "score": 7
+      },
+      "published_at": "2026-09-05",
+      "relevance_score": 0.0784,
+      "source": "reddit",
+      "summary": "If you're in the US, check out Best Buy. They have some desks $250 or less that are highly rated and would probably get the job done for you. I got some random desk from there on sale a few years ago they don't sell any 4 leg standing desks unfortunately! Ahhhhh. Come to think of it, I don't think I've ever seen a 4 leg standing desk before. I didn't know they existed!",
+      "title": "Trying to snag a Labor Day Weekend deal - I need recs/reviews for the Best 4 Legged Standing Desk for women!",
+      "url": "https://www.reddit.com/r/StandingDesk/comments/1w7p9f5/trying_to_snag_a_labor_day_weekend_deal_i_need/"
+    },
+    {
+      "candidate_id": "https://reddit.com/r/standingdesk/comments/1vwsmef/picked_up_my_uplift_standing_desk_for_200_any",
+      "cluster": 2,
+      "engagement": {
+        "num_comments": 4,
+        "score": 3
+      },
+      "published_at": "2026-08-24",
+      "relevance_score": 0.0695,
+      "source": "reddit",
+      "summary": "Nice score, is the desk motor quiet going up and down, or is it loud? It's quiet compared to the one our office manaher has which she got on Amazon Check out the recs here: https://standingdeskreference.com/recommendations.html",
+      "title": "Picked up my Uplift standing desk for $200 any suggestions for accessories and monitor arms",
+      "url": "https://www.reddit.com/r/StandingDesk/comments/1vwsmef/picked_up_my_uplift_standing_desk_for_200_any/"
+    }
+  ],
+  "schema_version": "1.2",
+  "source_status": {
+    "reddit": "ok"
+  },
+  "window_days": 30
+}
