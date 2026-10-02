@@ -1,0 +1,40 @@
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2025-01-01&before=2026-10-02&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2025-07-01&before=2026-01-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2026-01-01&before=2026-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+coach            r/smallbusiness        'coach': total 47
+mastermind       r/smallbusiness        'mastermind': total 58
+consultant       r/smallbusiness        'consultant': total 157
+agency           r/smallbusiness        'agency': total 257
+maxed-out        r/smallbusiness        'overwhelmed': total 357
+maxed-out        r/smallbusiness        'burnout': total 456
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=exhausted&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+maxed-out        r/smallbusiness        'exhausted': total 474
+plateau          r/smallbusiness        'plateau': total 486
+plateau          r/smallbusiness        'stuck': total 586
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=scale&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=scale&after=2025-01-01&before=2025-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=scale&after=2026-01-01&before=2026-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+growth           r/smallbusiness        'scale': total 736
+spouse           r/smallbusiness        'husband': total 791
+wholesale        r/smallbusiness        'wholesale': total 891
+coach            r/Entrepreneur         'coach': total 991
+mastermind       r/Entrepreneur         'mastermind': total 1013
+consultant       r/Entrepreneur         'consultant': total 1111
+agency           r/Entrepreneur         'agency': total 1210
+maxed-out        r/Entrepreneur         'overwhelmed': total 1292
+maxed-out        r/Entrepreneur         'burnout': total 1392
+maxed-out        r/Entrepreneur         'exhausted': total 1415
+plateau          r/Entrepreneur         'plateau': total 1420
+plateau          r/Entrepreneur         'stuck': total 1519
+growth           r/Entrepreneur         'scale': total 1614
+spouse           r/Entrepreneur         'husband': total 1632
+wholesale        r/Entrepreneur         'wholesale': total 1719
+coach            r/femalefounders       'coach': total 1728
+mastermind       r/femalefounders       'mastermind': total 1731
+consultant       r/femalefounders       'consultant': total 1735
+agency           r/femalefounders       'agency': total 1755
+maxed-out        r/femalefounders       'overwhelmed': total 1766
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=femalefounders&title=burnout&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=femalefounders&title=burnout&after=2026-01-01&before=2026-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+maxed-out        r/femalefounders       'burnout': total 1770
+maxed-out        r/femalefounders       'exhausted': total 1771

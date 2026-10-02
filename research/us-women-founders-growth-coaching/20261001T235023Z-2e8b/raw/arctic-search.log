@@ -1,4 +1,0 @@
-  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2025-01-01&before=2026-10-02&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
-  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2025-07-01&before=2026-01-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
-  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=coach&after=2026-01-01&before=2026-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
-coach            r/smallbusiness        'coach': total 47
