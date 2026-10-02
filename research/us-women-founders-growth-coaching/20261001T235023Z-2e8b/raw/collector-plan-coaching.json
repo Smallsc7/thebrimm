@@ -1,0 +1,5 @@
+{"intent":"opinion","freshness_mode":"balanced_recent","cluster_mode":"debate","subqueries":[
+{"label":"primary","search_query":"business coach worth it small business owner","ranking_query":"Firsthand accounts from small business owners deciding whether a business coach, mastermind or group coaching program was worth the money, or why they quit or never hired one. Prefer owners with an operating business and customers. Exclude coaches promoting their own services.","sources":["reddit","youtube","hackernews"],"weight":1.0},
+{"label":"mastermind","search_query":"mastermind group worth it business owner","ranking_query":"Business owners describing what happened in a paid mastermind or peer group, good or bad. Exclude sales pitches for masterminds.","sources":["reddit","youtube"],"weight":0.8},
+{"label":"too-busy","search_query":"overwhelmed small business owner doing everything myself","ranking_query":"Owners of established small businesses saying they are maxed out, doing everything themselves, stuck, and cannot take on more, including about getting help. Exclude vendor marketing.","sources":["reddit","youtube"],"weight":0.8}
+]}
