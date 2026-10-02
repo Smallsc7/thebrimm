@@ -1,0 +1,973 @@
+{
+ "post": {
+  "_meta": {
+   "is_edited": true,
+   "retrieved_2nd_on": 1760358468
+  },
+  "all_awardings": [],
+  "allow_live_comments": false,
+  "approved_at_utc": null,
+  "approved_by": null,
+  "archived": false,
+  "author": "whocaresthrowa",
+  "author_flair_background_color": null,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "author_flair_template_id": null,
+  "author_flair_text": null,
+  "author_flair_text_color": null,
+  "author_flair_type": "text",
+  "author_fullname": "t2_bsuulfzx",
+  "author_is_blocked": false,
+  "author_patreon_flair": false,
+  "author_premium": false,
+  "awarders": [],
+  "banned_at_utc": null,
+  "banned_by": null,
+  "can_gild": false,
+  "can_mod_post": false,
+  "category": null,
+  "clicked": false,
+  "content_categories": null,
+  "contest_mode": false,
+  "created": 1760228859,
+  "created_utc": 1760228859,
+  "discussion_type": null,
+  "distinguished": null,
+  "domain": "self.smallbusiness",
+  "downs": 0,
+  "edited": false,
+  "gilded": 0,
+  "gildings": {},
+  "hidden": false,
+  "hide_score": false,
+  "id": "1o4b9dl",
+  "is_created_from_ads_ui": false,
+  "is_crosspostable": true,
+  "is_meta": false,
+  "is_original_content": false,
+  "is_reddit_media_domain": false,
+  "is_robot_indexable": true,
+  "is_self": true,
+  "is_video": false,
+  "likes": null,
+  "link_flair_background_color": null,
+  "link_flair_css_class": "general",
+  "link_flair_richtext": [],
+  "link_flair_text": "General",
+  "link_flair_text_color": null,
+  "link_flair_type": "text",
+  "locked": false,
+  "media": null,
+  "media_embed": {},
+  "media_only": false,
+  "mod_note": null,
+  "mod_reason_by": null,
+  "mod_reason_title": null,
+  "mod_reports": [],
+  "name": "t3_1o4b9dl",
+  "no_follow": true,
+  "num_comments": 94,
+  "num_crossposts": 0,
+  "num_reports": null,
+  "over_18": false,
+  "permalink": "/r/smallbusiness/comments/1o4b9dl/ive_been_stuck_at_200k_in_revenue_for_three_years/",
+  "pinned": false,
+  "pwls": 6,
+  "quarantine": false,
+  "removal_reason": null,
+  "removed_by": null,
+  "removed_by_category": null,
+  "report_reasons": null,
+  "retrieved_on": 1760228877,
+  "saved": false,
+  "score": 103,
+  "secure_media": null,
+  "secure_media_embed": {},
+  "selftext": "It\u2019s becoming very frustrating. My buddy and I started this business from nothing, and it felt like we would be well off fairly quickly. Our first full year, we hit almost 200k. Seemed like the sky was the limit. We make a product and sell both online and in person. We also have a storefront/production facility. \n\nOur online sales grew consistently until they peaked at 10k in March. They\u2019ve since stabilized around 30% below that. We\u2019ve released new products, explored other markets, and maintained consistent presence where we\u2019ve had success. Yet we seem to lose a customer for every one we gain. \n\nI always thought gaining the initial customers would be the hardest part of running a business. For the third year in a row, I\u2019ve been proven wrong.",
+  "send_replies": true,
+  "spoiler": false,
+  "stickied": false,
+  "subreddit": "smallbusiness",
+  "subreddit_id": "t5_2qr34",
+  "subreddit_name_prefixed": "r/smallbusiness",
+  "subreddit_subscribers": 2242603,
+  "subreddit_type": "public",
+  "suggested_sort": null,
+  "thumbnail": "self",
+  "thumbnail_height": null,
+  "thumbnail_width": null,
+  "title": "I\u2019ve been stuck at $200k in revenue for three years now",
+  "top_awarded_type": null,
+  "total_awards_received": 0,
+  "treatment_tags": [],
+  "ups": 103,
+  "upvote_ratio": 0.8199999928474426,
+  "url": "https://www.reddit.com/r/smallbusiness/comments/1o4b9dl/ive_been_stuck_at_200k_in_revenue_for_three_years/",
+  "user_reports": [],
+  "view_count": null,
+  "visited": false,
+  "wls": 6
+ },
+ "post_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1o4b9dl",
+ "tree_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1o4b9dl&limit=400",
+ "collected_at": "2026-10-02T01:17:28Z",
+ "comments": [
+  {
+   "id": "nj0zbph",
+   "parent_id": "t3_1o4b9dl",
+   "author": "AutoModerator",
+   "score": 1,
+   "depth": 0,
+   "body": "This is a friendly reminder that r/smallbusiness is a question and answer subreddit. You ask a question about starting, owning, and growing a small business and the community answers. Posts that violate the rules listed in the sidebar will be removed. A permanent or temporary ban may also be issued if you do not remove the offending post. Seeing this message does not mean your post was automatically removed. Please also note our new Rule 5- Posts with negative vote totals may be removed if they are deemed non-specific, or if they are repeats of questions designed to gather information rather than solve a small business problem.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/smallbusiness) if you have any questions or concerns.*"
+  },
+  {
+   "id": "nj0zwrx",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Flowbot_Forge",
+   "score": 37,
+   "depth": 0,
+   "body": "What is your retargeting and retention strategy?"
+  },
+  {
+   "id": "nj10zqk",
+   "parent_id": "t1_nj0zwrx",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1kdbr",
+   "parent_id": "t1_nj0zwrx",
+   "author": "Wiggler011",
+   "score": 25,
+   "depth": 1,
+   "body": "Where did OP go?"
+  },
+  {
+   "id": "nj9ott5",
+   "parent_id": "t1_nj1kdbr",
+   "author": "Zealousideal-Day4774",
+   "score": 3,
+   "depth": 2,
+   "body": "Went out of business"
+  },
+  {
+   "id": "nj105ve",
+   "parent_id": "t3_1o4b9dl",
+   "author": "ZeroUnreadMessages",
+   "score": 1,
+   "depth": 0,
+   "body": "Is the 200k gross ore net?"
+  },
+  {
+   "id": "nj11q1v",
+   "parent_id": "t1_nj105ve",
+   "author": "Goonerhead",
+   "score": -25,
+   "depth": 1,
+   "body": "Who cares, seriously ?"
+  },
+  {
+   "id": "nj1r7d2",
+   "parent_id": "t1_nj11q1v",
+   "author": "robertpeacock22",
+   "score": 2,
+   "depth": 2,
+   "body": "It's the difference between taking home $200k/year and taking home ~$20-40k/year. I promise you, most small business owners care about this a lot."
+  },
+  {
+   "id": "nj1rvlo",
+   "parent_id": "t1_nj1r7d2",
+   "author": "Goonerhead",
+   "score": -1,
+   "depth": 3,
+   "body": "So you\u2019re telling me you could go from 200k/year gross to 20-40k/year net ? In what country ? How ?\nI live in France (and own a business), one of the most taxed country on earth, and even if you try to sabotage yourself by picking up the worst company structure for your type of business, and the worst social plan for your charges, it wouldn\u2019t shrink that much. Not even close."
+  },
+  {
+   "id": "nj1t641",
+   "parent_id": "t1_nj1rvlo",
+   "author": "robertpeacock22",
+   "score": 3,
+   "depth": 4,
+   "body": "\ud83d\ude02 Tell me that you don't know what gross and net mean, without telling me that you don't know what gross and net mean. Gross is what you take in, then you subtract your materials cost, staff salaries, operating costs, etc. Net is what you are left with.\n\nUnless you are one of those SMB owners who works at their own SMB, and doesn't understand that they are one of their own staff, commingling their salary with their owner's disbursement.\n\nFor an actual small business where you are smart enough to pay other people to do the work for you, 10% is widely considered to be a \"good\" profit margin."
+  },
+  {
+   "id": "nj1tunf",
+   "parent_id": "t1_nj1t641",
+   "author": "Goonerhead",
+   "score": 1,
+   "depth": 5,
+   "body": "You\u2019re mixing up revenue/profit with gross/net imo.\nI am a solo tech biz owner so much of what you\u2019re saying doesn\u2019t apply much to me, but the only difference between gross and net are taxes in my world.\n\nI agree with your last paragraph, but you\u2019re talking about profit and margins here, which is a different concept."
+  },
+  {
+   "id": "nj11yt0",
+   "parent_id": "t1_nj105ve",
+   "author": "EducatedJooner",
+   "score": 9,
+   "depth": 1,
+   "body": "Revenue is gross. Profit is net."
+  },
+  {
+   "id": "nj12ejv",
+   "parent_id": "t1_nj11yt0",
+   "author": "d3vrock",
+   "score": -4,
+   "depth": 2,
+   "body": "200k gross okay. 200k net smexy"
+  },
+  {
+   "id": "nj107el",
+   "parent_id": "t3_1o4b9dl",
+   "author": "WHAT-IM-THINKING",
+   "score": 1,
+   "depth": 0,
+   "body": "It only gets more and more competitive, gotta keep the same hustle and not slow down"
+  },
+  {
+   "id": "nj119xi",
+   "parent_id": "t3_1o4b9dl",
+   "author": "beardmeblazer",
+   "score": 143,
+   "depth": 0,
+   "body": "Is your product actually good? If you aren\u2019t retaining customers, it\u2019s definitely something to dig into further."
+  },
+  {
+   "id": "nj11ew0",
+   "parent_id": "t1_nj119xi",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1375m",
+   "parent_id": "t1_nj119xi",
+   "author": "Fun_Can_4498",
+   "score": 43,
+   "depth": 1,
+   "body": "If it was good they wouldn\u2019t be losing customers."
+  },
+  {
+   "id": "nj18p5u",
+   "parent_id": "t1_nj1375m",
+   "author": "bumpgrind",
+   "score": 77,
+   "depth": 2,
+   "body": "Unless it's a product that doesn't have repeat purchases very often."
+  },
+  {
+   "id": "nj193t7",
+   "parent_id": "t1_nj1375m",
+   "author": "appxcap",
+   "score": 21,
+   "depth": 2,
+   "body": "That\u2019s not reality, many business variables can provide lost customers, but a business need to understand why of course"
+  },
+  {
+   "id": "nj1b6e8",
+   "parent_id": "t1_nj1375m",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 2,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1ekz4",
+   "parent_id": "t1_nj1375m",
+   "author": "PatriciaMPerry",
+   "score": 5,
+   "depth": 2,
+   "body": "OP may not be doing enough to retain customers."
+  },
+  {
+   "id": "nj1lszq",
+   "parent_id": "t1_nj1375m",
+   "author": "HornyAIBot",
+   "score": 3,
+   "depth": 2,
+   "body": "Why kind of shit product are you selling OP?"
+  },
+  {
+   "id": "nj3gerl",
+   "parent_id": "t1_nj1375m",
+   "author": "OsamaBinWhiskers",
+   "score": 4,
+   "depth": 2,
+   "body": "That\u2019s not true. Maytag was so good they lost customers"
+  },
+  {
+   "id": "nj4344b",
+   "parent_id": "t1_nj1375m",
+   "author": "standardtissue",
+   "score": 0,
+   "depth": 2,
+   "body": "Really hard to state that without knowing what the product or at least industry is."
+  },
+  {
+   "id": "nj297gc",
+   "parent_id": "t1_nj119xi",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj11ed3",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Automatic_Leek_4716",
+   "score": 1,
+   "depth": 0,
+   "body": "Price, competitive landscape, USP, CPA"
+  },
+  {
+   "id": "nj127h1",
+   "parent_id": "t3_1o4b9dl",
+   "author": "InvalidProgrammer",
+   "score": 27,
+   "depth": 0,
+   "body": "Do you know why customers typically drop? How\u2019s word of mouth from previous customers? \n\nWhat\u2019s your retention rate at various points after first gaining a customer? Do you know after the biggest  reason people leave after various time? Most people who leave, for example after 3 months, could be leaving for a different reason than most people after a year.\n\nWhat makes people intiallly willing to try your product? What changes between that initial sale and leaving ?\n\nHave you tried tying sales and retention to different demographics? That could provide insight too. Also to different products and product lines.\n\nIs your market focus too narrow? Or maybe too broad (possibly just for the brand though - may need sub brands). Are products/product lines differentiated enough, and if so are the differences clearly communicated to the customers?\n\nHow do customers generally feel about your product? Does it bring them joy or make them feel they\u2019re getting good value or that they\u2019re getting something they can\u2019t get somewhere else? \n\nWhat differentiates you from the competition? Is it clear to consumers?"
+  },
+  {
+   "id": "nj1d7io",
+   "parent_id": "t1_nj127h1",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj12ojk",
+   "parent_id": "t3_1o4b9dl",
+   "author": "eCommerceLife",
+   "score": 19,
+   "depth": 0,
+   "body": "I'm currious how you have a facility, and manage to pay yourself, on 200k gross?\n\nAre you on Amazon?"
+  },
+  {
+   "id": "nj19mra",
+   "parent_id": "t1_nj12ojk",
+   "author": "ZeroUnreadMessages",
+   "score": 20,
+   "depth": 1,
+   "body": "Exactly. 200k gross for 2 people is not a lot."
+  },
+  {
+   "id": "nj1bia4",
+   "parent_id": "t1_nj19mra",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 2,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1bm2e",
+   "parent_id": "t1_nj12ojk",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj13rll",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Ok_Internet_5058",
+   "score": -3,
+   "depth": 0,
+   "body": "Give me $10 and be stuck at $190k, so you\u2019re not doing the same thing every year."
+  },
+  {
+   "id": "nj17g8v",
+   "parent_id": "t1_nj13rll",
+   "author": "Weird_Yam6398",
+   "score": 7,
+   "depth": 1,
+   "body": "Math is hard"
+  },
+  {
+   "id": "nj141d7",
+   "parent_id": "t3_1o4b9dl",
+   "author": "paulio10",
+   "score": -10,
+   "depth": 0,
+   "body": "Please read the book \"10X is easier than 2X\" by Grant Cardone. Then practice thinking along those lines, as it relates to your business. Game changer."
+  },
+  {
+   "id": "nj16u53",
+   "parent_id": "t3_1o4b9dl",
+   "author": "DaySwingTrade",
+   "score": 4,
+   "depth": 0,
+   "body": "Seems like you need to become a wholesaler and put retail sales to second."
+  },
+  {
+   "id": "nj17jf6",
+   "parent_id": "t3_1o4b9dl",
+   "author": "PaySea152",
+   "score": 3,
+   "depth": 0,
+   "body": "Are customers buying once and not returning? Did they find a product in your same niche for a better price (or better experience)? Are you running ads at all? I once bought a jar of cookies off of IG b/c I liked the presentation and I like cookies, but when I got the delivery what I actually received was a lot more deflated than this person\u2019s IG page and I never ordered again b/c it wasn\u2019t necessary.\n\nFor your storefront what kind of experience do customers get? Amazon has been successful in taking the volume approach and flooding the industry with countless passing - good products. A good product no longer sustains business anymore. It\u2019s customer support and customer experience. Price follows closely behind. If you can afford it you gotta hire a professional to come in and assess how to break thru the ceiling you\u2019ve reached. Sounds like you\u2019re trying to take the ship thru ice-filled waters when you need to be rerouted back to blue ocean."
+  },
+  {
+   "id": "nj17oyv",
+   "parent_id": "t3_1o4b9dl",
+   "author": "CamIoncani",
+   "score": 5,
+   "depth": 0,
+   "body": "So you are 200K per year for the past three years? Thats not bad in the grand scheme of things. Seems like you bank on that every year, but need to expand into new markets. That\u2019s where I would be looking. Are there trade shows for your product? Different retail avenues?"
+  },
+  {
+   "id": "nj197bs",
+   "parent_id": "t3_1o4b9dl",
+   "author": "appxcap",
+   "score": 5,
+   "depth": 0,
+   "body": "My first question of many is how much are you spending on marketing per mo.?"
+  },
+  {
+   "id": "nj1nl8h",
+   "parent_id": "t1_nj197bs",
+   "author": "upievotie5",
+   "score": 3,
+   "depth": 1,
+   "body": "Right, what's the PPC budget?\u00a0 I bet it's 0.\u00a0 We're up to $20K/mo in PPC spend for my business now."
+  },
+  {
+   "id": "nj42b6v",
+   "parent_id": "t1_nj1nl8h",
+   "author": "appxcap",
+   "score": 1,
+   "depth": 2,
+   "body": "Yes correct but it will depend on net revenue, should always be spending wisely and metric based of 10% of net rev (conservative approach)\u2026but most owners don\u2019t take the time to understand marketing, hire a friend of friend with an agency who doesn\u2019t know either, or just put it all in meta bc they think it works still\u2026the future of marketing is already here and its social recommendation at a higher authentic level\u2026consumers appreciate entertaining ads but want a reliable-honest product + service\u26a1\ufe0f"
+  },
+  {
+   "id": "nj1a5cj",
+   "parent_id": "t3_1o4b9dl",
+   "author": "mydarkerside",
+   "score": 3,
+   "depth": 0,
+   "body": "Are your customers repeat customers?  Do you have a subscription model available?  How much data do you have on your customers, their purchases, how many abandoned carts, etc?  Do you have a CRM to track  and contact your customers?"
+  },
+  {
+   "id": "nj1akxj",
+   "parent_id": "t3_1o4b9dl",
+   "author": "TotallyNotCIA_Ops",
+   "score": 25,
+   "depth": 0,
+   "body": "Michelin created the Michelin Guide to encourage people to travel, and thus buy more tires.\nNow we have Michelin tires and Michelin 5 star restaurants. \n\nAnd really people respect the restaurants they name more than the tire. The tire still sucks compared to a lot of their competitors. \n\nBut they drive the entire industry. Not just their own business, by doing something that had nothing to do with tires directly. \n\nIf more people travel; then more people buy tires. And market share is market share. \n\nTake a wide step back from your business and think bigger.\n\nWhat triggers people to buy your product (or your competitors). What actually drives them to purchase?\n\nThink about the purchase as a process and figure out where there is room for your version of the Michelin guide. \n\nIf you sell dog poop bags, you need to find ways to encourage dog owners to go out with their dogs more.\n\nIf you sell apples you need to encourage people to bake more apple pie. \n\nStop selling your product, and start giving people valuable information, guides, tutorials that seemingly have nothing to do with your product but ultimately lead them to it.\n\nBuilding active readers is a monetary gain itself.\n\nFigure out what your annual  \u201cmarket share\u201d is with your $200k revenue, and find a way to move the market up as whole. The percentage will stay the same for your retention, and you\u2019ll have more revenue."
+  },
+  {
+   "id": "nj1ewtr",
+   "parent_id": "t1_nj1akxj",
+   "author": "longjackthat",
+   "score": 4,
+   "depth": 1,
+   "body": "John Deere did something similar with their magazine"
+  },
+  {
+   "id": "nj1fxga",
+   "parent_id": "t1_nj1ewtr",
+   "author": "TotallyNotCIA_Ops",
+   "score": 5,
+   "depth": 2,
+   "body": "Redbull is another good example. They are their own sponsor really."
+  },
+  {
+   "id": "nj1o848",
+   "parent_id": "t1_nj1akxj",
+   "author": "tnseltim",
+   "score": 7,
+   "depth": 1,
+   "body": "Point taken and accepted, but idk who told you Michelin tires suck\u2026 pilot sports are  some of the best street performance tires out there. And Roads are very good motorcycle tires."
+  },
+  {
+   "id": "nj30p1l",
+   "parent_id": "t1_nj1o848",
+   "author": "TotallyNotCIA_Ops",
+   "score": 9,
+   "depth": 2,
+   "body": "You are right, upon looking it up, they are in fact the world\u2019s leading tire brand. This is perhaps a first on Reddit but I admit, based consumer data, I was wrong. \n\nThey\u2019ve definitely done it right!"
+  },
+  {
+   "id": "nj39brz",
+   "parent_id": "t1_nj30p1l",
+   "author": "tnseltim",
+   "score": 5,
+   "depth": 3,
+   "body": "Wow, I haven\u2019t personally seen an interaction such as this take place!  I\u2019m\nGlad I could be a part of it. Maybe there is hope after all?  \nHave a great day Reddit friend."
+  },
+  {
+   "id": "nj4g95f",
+   "parent_id": "t1_nj30p1l",
+   "author": "Sporesword",
+   "score": 2,
+   "depth": 3,
+   "body": "Can't be the CIA with all this admittion of being wrong!"
+  },
+  {
+   "id": "nj7jmj0",
+   "parent_id": "t1_nj4g95f",
+   "author": "TotallyNotCIA_Ops",
+   "score": 1,
+   "depth": 4,
+   "body": "Totally not"
+  },
+  {
+   "id": "nj1y2cq",
+   "parent_id": "t1_nj1akxj",
+   "author": "dm117",
+   "score": 3,
+   "depth": 1,
+   "body": "Agreed with this comment BUT their tires are best in class. PS4s, Cup 2s, and the bike tires."
+  },
+  {
+   "id": "nj275x2",
+   "parent_id": "t1_nj1akxj",
+   "author": "JudgeInteresting8615",
+   "score": 2,
+   "depth": 1,
+   "body": "The only thoughtful response in the entire thing, everything else is like gary v as crack smoke"
+  },
+  {
+   "id": "nj1anp8",
+   "parent_id": "t3_1o4b9dl",
+   "author": "oe-eo",
+   "score": 3,
+   "depth": 0,
+   "body": "Whats the product?"
+  },
+  {
+   "id": "nj1bag4",
+   "parent_id": "t3_1o4b9dl",
+   "author": "piathulus",
+   "score": 80,
+   "depth": 0,
+   "body": "You're not going to get useful responses unless you share what type of product it is. Since different products have different market cycles, customer retention metrics, etc..."
+  },
+  {
+   "id": "nj1f58t",
+   "parent_id": "t1_nj1bag4",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj8qtnu",
+   "parent_id": "t1_nj1bag4",
+   "author": "Big-Platypus-9684",
+   "score": 1,
+   "depth": 1,
+   "body": "For the love of god yes."
+  },
+  {
+   "id": "njea2w7",
+   "parent_id": "t1_nj8qtnu",
+   "author": "RDW-Development",
+   "score": 2,
+   "depth": 2,
+   "body": "I don't bother posting (or reading) posts like this where it's just a guessing game..."
+  },
+  {
+   "id": "nj1dc9f",
+   "parent_id": "t3_1o4b9dl",
+   "author": "dirndlfrau",
+   "score": 4,
+   "depth": 0,
+   "body": "Marketing. A good product marketed bad won't do as good as a bad product marketed good. Good Luck, you have a fantastic start."
+  },
+  {
+   "id": "nj1dmkx",
+   "parent_id": "t3_1o4b9dl",
+   "author": "obsessedsolutions",
+   "score": 5,
+   "depth": 0,
+   "body": "Where can you save money? Focus on that. Increase profit margins.\n\nCould hiring a sales person help you sell more? And get your product out there?"
+  },
+  {
+   "id": "nj1e7bk",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1f2kx",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Unique_Couple87",
+   "score": 2,
+   "depth": 0,
+   "body": "What kind of product? Are you reselling to your existing customers? Do you have email marketing in place? What\u2019s the lifetime value of a customer? Do they buy just once? Or do they come back?"
+  },
+  {
+   "id": "nj1g7qx",
+   "parent_id": "t3_1o4b9dl",
+   "author": "acatinasweater",
+   "score": 8,
+   "depth": 0,
+   "body": "If your gross won\u2019t budge, work on your net."
+  },
+  {
+   "id": "nj3juiz",
+   "parent_id": "t1_nj1g7qx",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj1kuyz",
+   "parent_id": "t3_1o4b9dl",
+   "author": "RevolutionaryBug7588",
+   "score": 1,
+   "depth": 0,
+   "body": "What\u2019s the product, margin, marketing strategy, marketing budget, new products, upsells, etc etc"
+  },
+  {
+   "id": "nj1kzip",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Boxer_the_horse",
+   "score": 1,
+   "depth": 0,
+   "body": "I don\u2019t know what you\u2019re selling but many, if not most businesses are staying level or down in the last couple of years. Especially since the tariffs mess. People spent money for a couple of years after the pandemic started but then it went down for a lot of businesses or leveled out."
+  },
+  {
+   "id": "nj1l8uy",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Han77Shot1st",
+   "score": 2,
+   "depth": 0,
+   "body": "To me profitability is the only part that should matter right? Like I don\u2019t care how much I gross at the end of the year, only thing that matters is the net profit."
+  },
+  {
+   "id": "nj1lgyj",
+   "parent_id": "t3_1o4b9dl",
+   "author": "entrepreneur-2004",
+   "score": 3,
+   "depth": 0,
+   "body": "It's likely your price point and it being something people don't necessarily need. If it's just a want, it has to be feasible to buy over and over again to keep a customer."
+  },
+  {
+   "id": "nj1mypc",
+   "parent_id": "t3_1o4b9dl",
+   "author": "JudahthePharoah",
+   "score": 1,
+   "depth": 0,
+   "body": "The data should tell you everything , I can take a look into what\u2019s going on I\u2019m a business consultant DM me"
+  },
+  {
+   "id": "nj1nk9y",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Tex_Pearson",
+   "score": 1,
+   "depth": 0,
+   "body": "I see this with a lot of clients. I\u2019ll use the hubspot flywheel for the example. Business owners will put all their effort into attracting and engaging their customers but then slip at delighting them. Figure out how to delight your specific customer base and get them to come back"
+  },
+  {
+   "id": "nj1on2m",
+   "parent_id": "t3_1o4b9dl",
+   "author": "SpongeSquarePantsBob",
+   "score": 2,
+   "depth": 0,
+   "body": "Do you have any sort of system for bringing customers back? Email list? Newsletter? The lowest hanging marketing fruit are people who have bought before."
+  },
+  {
+   "id": "nj1p484",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Brightlightsuperfun",
+   "score": 1,
+   "depth": 0,
+   "body": "Assuming the product is great, spend more on ads. Most of the time people just dont know you exist"
+  },
+  {
+   "id": "nj1pjhg",
+   "parent_id": "t3_1o4b9dl",
+   "author": "BiscottiGeneral",
+   "score": 3,
+   "depth": 0,
+   "body": "If your customers aren\u2019t buying again, you have a product problem.\n\nIf your customers can\u2019t remember you or can\u2019t find you again, you have a branding problem.\n\nIf your new customers are only reaching $10K a month, you have a marketing problem."
+  },
+  {
+   "id": "nj1q3s1",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Unique_Couple87",
+   "score": 1,
+   "depth": 0,
+   "body": "What kind of product? Are you reselling to your existing customers? Do you have email marketing in place? What\u2019s the lifetime value of a customer? Do they buy just once? Or do they come back?"
+  },
+  {
+   "id": "nj1smex",
+   "parent_id": "t3_1o4b9dl",
+   "author": "neepster44",
+   "score": 1,
+   "depth": 0,
+   "body": "Wellness is fad level shit.  Just like joining a gym.  People  sign up to do it, realize it\u2019s hard and unfun and then stop."
+  },
+  {
+   "id": "nj1sofw",
+   "parent_id": "t3_1o4b9dl",
+   "author": "neumanc",
+   "score": 1,
+   "depth": 0,
+   "body": "After years of consulting for service-based businesses, one truth stands out: the smartest move you can make is to listen and communicate with your customers. They\u2019ll tell you exactly what\u2019s working and what\u2019s not. If you\u2019re willing to hear them. Their feedback is the roadmap to keeping your business on track."
+  },
+  {
+   "id": "nj1ykbw",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj23au9",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Willing_Try2786",
+   "score": 1,
+   "depth": 0,
+   "body": "Bot post\u00a0"
+  },
+  {
+   "id": "nj2pg1y",
+   "parent_id": "t3_1o4b9dl",
+   "author": "aprilsmithss",
+   "score": 1,
+   "depth": 0,
+   "body": "losing a customer for every new one means competition is eating your lunch, what are they doing that you're not?"
+  },
+  {
+   "id": "nj2t69s",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Mushu_Pork",
+   "score": 2,
+   "depth": 0,
+   "body": "Our business was great... then we got competitors.\n\nWe had longtime repeat customers... until they retired or died.\n\nWe were making great margins... until costs went up.\n\nThis line of product was great for us... until they went out of business.\n\nThat's business... a never ending string of subjective situations that you need to adapt to.\n\nYou won't be on the \"better\" side of each situation... but you need to have advantage in enough where you're profitable and not degrading the quality of experience or product."
+  },
+  {
+   "id": "nj313ae",
+   "parent_id": "t3_1o4b9dl",
+   "author": "human_1st",
+   "score": 1,
+   "depth": 0,
+   "body": "When we were stuck in my company I decided to go through the list of past and current customers and find my top 10 customers (the ones who made the most money) and just reach out to them for a call and I asked three things during the chat:\n\n1. What made you decide to buy from us the first time?\n2. What made you come back or tell others?\n3. If we disappeared tomorrow, what would you miss most?\n\nThen I used their words by literally copy-pasted their phrases into my website, ads and product pages. New customers started saying the exact same things back to me. That helped us a lot."
+  },
+  {
+   "id": "nj33lwq",
+   "parent_id": "t3_1o4b9dl",
+   "author": "ISayAboot",
+   "score": 0,
+   "depth": 0,
+   "body": "Mentally: This is going to sound a bit weird and a bit cosmic, but read T Harv Eckers Secrets of the Millionaire Mind - and when people get stuck at revenue numbers.\n\nI used to be able to hit 375K annually in my\nConsulting biz like clockwork. Didn\u2019t matter how hard I worked, I would hit that number within a few grand\u2026.\n\nLike I said a bit cosmic woo woo - but worth a read! \n\n\nTactically: for losing customers, check out the book Evergreen. There\u2019s a hole in the bucket causing you to lose customers, and you\u2019re stuck in a \u201ckeep filling the bucket\u201d cycle."
+  },
+  {
+   "id": "nj3f0og",
+   "parent_id": "t3_1o4b9dl",
+   "author": "BolderCollie",
+   "score": 1,
+   "depth": 0,
+   "body": "Pricing model - maybe you can offer some kind of subscription or bundles  \nWho is your ideal customer - ignore the customers that leave that were not your IC, investigate those who are, get feedback from them, there has to be a reason why they're leaving - either there is simply no need for another product/continuation or there is a gap between what they expectations were when they bought the product and what they got"
+  },
+  {
+   "id": "nj3gila",
+   "parent_id": "t3_1o4b9dl",
+   "author": "OsamaBinWhiskers",
+   "score": 2,
+   "depth": 0,
+   "body": "Homie posted this then threw their phone in the lake"
+  },
+  {
+   "id": "nj3lb08",
+   "parent_id": "t3_1o4b9dl",
+   "author": "keptit2real",
+   "score": 1,
+   "depth": 0,
+   "body": "Look at this way, you now know you can hit a stable revenue portion every year. I would recommend to grow steadily and slowly maybe looked at just add an additional hundred to 50K this year"
+  },
+  {
+   "id": "nj3ubpg",
+   "parent_id": "t3_1o4b9dl",
+   "author": "mmsmovers",
+   "score": 1,
+   "depth": 0,
+   "body": "\ud83d\udcde\ud83d\udcde\ud83d\udcde"
+  },
+  {
+   "id": "nj3uifa",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj3un60",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Fearless_Amount_946",
+   "score": 3,
+   "depth": 0,
+   "body": "Sounds like your product has issues. Look into what you are selling. Call and talk to 15 to 25 of the customers that dropped you. Ask them why. You either have a crappy product or there is a break down in your system somewhere between ordering and the client receiving it."
+  },
+  {
+   "id": "nj3yub5",
+   "parent_id": "t3_1o4b9dl",
+   "author": "No-Anybody2826",
+   "score": 1,
+   "depth": 0,
+   "body": "You had a good run building from nothing. Sell the company to someone who can take it to the next level and has the experience in growing from 200K to 10M. There\u2019s different skills needed for all stages in starting and growing a company along with capital."
+  },
+  {
+   "id": "nj44u11",
+   "parent_id": "t1_nj3yub5",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj4tlqi",
+   "parent_id": "t1_nj3yub5",
+   "author": "No-Anybody2826",
+   "score": 1,
+   "depth": 1,
+   "body": "Better to sell, get 3x to 5x and start something new, than risk a slow death. Unless your partner thinks s/he can grow the revenue with the status quo."
+  },
+  {
+   "id": "nj42ixf",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj4c33w",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nj4plvn",
+   "parent_id": "t3_1o4b9dl",
+   "author": "ebgtx",
+   "score": 1,
+   "depth": 0,
+   "body": "You need to re-examine what you do what got you here won\u2019t get you there. \nCheck out Alex Hormozi\u2019s channels/books. He\u2019s got a lot of good things you can use for growing your business"
+  },
+  {
+   "id": "nj4qz9s",
+   "parent_id": "t3_1o4b9dl",
+   "author": "creativeny",
+   "score": 1,
+   "depth": 0,
+   "body": "Explore why you're losing the customers in the first place, send a survey or entice them to come back. See what your competitors are doing successfully and if they're leaving any gaps you can fill.\n\nBasically you need to evaluate your marketing strategy and improve on whatever works while rectifying the flaws."
+  },
+  {
+   "id": "nj4whk8",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Kimblethedwarf",
+   "score": 1,
+   "depth": 0,
+   "body": "Mirroring what a few others have said. So many different marks out there youre kind of shooting in the dark for advice without some specifics."
+  },
+  {
+   "id": "nj71oby",
+   "parent_id": "t3_1o4b9dl",
+   "author": "ComprehensiveShirt1",
+   "score": 1,
+   "depth": 0,
+   "body": "Look up Marginal utility, it\u2019ll explain everything."
+  },
+  {
+   "id": "nj7mpwr",
+   "parent_id": "t3_1o4b9dl",
+   "author": "swehes",
+   "score": 1,
+   "depth": 0,
+   "body": "Is your business vision and mission clear? What is the message that your products are saying? How about your business culture? If the energy centers of your business is out of balance, you will have a hard time retaining customers."
+  },
+  {
+   "id": "nj7ouwy",
+   "parent_id": "t3_1o4b9dl",
+   "author": "Altruistic_Swim_3852",
+   "score": 1,
+   "depth": 0,
+   "body": "RZLV\n\nSpread the word about 426% YOY Growth \nSmashing $90Million guidance for 2025 and increasing it to $150Million by end of 2025\n$500 Million projected for 2026\n\nAcquiring 2 companies for $16Million\n$10Million cash and 1Million shares of RZLV (most importantly! Shares already in circulation so no dilution!)\nWe\u2019ve got a legit business man at the helm!\nSmart pay acquisition on Wednesday 10/08/25 smart pay processed $1BILLION over the last 12 months and is the bridge for their vision \n\nAcquisition of SubSquid 10/09/25 a crypto on the blockchain that\u2019s been around for awhile and has mountains of data for RZLV\u2019s BrainPowa to learn from\n\nWith those 2 acquisitions RZLV is setting up to be a global leader! \nAn E-commerce GIANT! \nAlso, the partnerships with Microsoft and Google! They\u2019re reaching 90%+ of the E-commerce market globally!!!\n\nDuring the earnings call for RZLV Dan Wagner said there was a $1 for $1 credit guarantee by these giants! If you try RZLV\u2019s BrainPowa and if you decide it\u2019s not for you, then these 2 behemoths will basically give you a money back guarantee in the form of a credit to use towards any of their other MANY projects/products\n\nThis stock is an absolute gift \ud83c\udf81 to investors! Were you late on \nPNTR? AMZN? TSLA? NFLX?\nThis is going to be a Dominant stock in a Multi Trillion  Dollar Sector! And we are early for the show!! \ud83c\udf89\ud83d\ude01\ud83e\udee1\ud83d\ude0e\n\nSee you all at the top! \ud83e\udd11\ud83e\udd11\ud83e\udd11"
+  },
+  {
+   "id": "nj8xogf",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "njadc43",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "njdjlot",
+   "parent_id": "t3_1o4b9dl",
+   "author": "RakTsun",
+   "score": 1,
+   "depth": 0,
+   "body": "Keeping everyone buying is no joke. If you're hitting a wall, biggest needle mover is mapping exactly where drop-offs happen -  onboarding, pricing, checkout, or follow-ups. Clean up that step, automate touchpoints, and watch the churn drop. Most \"stuck\" biz is just one clogged funnel step away from new growth."
+  },
+  {
+   "id": "njecg4l",
+   "parent_id": "t3_1o4b9dl",
+   "author": "matjam8",
+   "score": 1,
+   "depth": 0,
+   "body": "Talk to your customers...there's a retention or a systemic or a condition or variable that needs addressing...like seriously. And that's OK, it just needs to be identified and then see if it's worth working on (run the math....scenarios n projections and outcome likelihoods)."
+  },
+  {
+   "id": "njem5yg",
+   "parent_id": "t3_1o4b9dl",
+   "author": "sw202020",
+   "score": 1,
+   "depth": 0,
+   "body": "Business is hard. If you\u2019re great at getting something off the ground, which you clearly are, that doesn\u2019t mean you\u2019ll be instantly good at getting it to say \u00a3500k. I\u2019ve found every stage is harder (for me) and takes longer to break through. You will get there, just have to keep going. \ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb"
+  },
+  {
+   "id": "njf8d0x",
+   "parent_id": "t3_1o4b9dl",
+   "author": "erickrealz",
+   "score": 1,
+   "depth": 0,
+   "body": "Three years stuck at the same revenue means you've got a retention problem, not an acquisition problem. You're churning customers as fast as you're bringing them in, which means either your product isn't sticky enough or you're targeting the wrong people.\n\nWellness products need repeat purchases to grow. If customers buy once and disappear, you don't have a business, you just have expensive one-time transactions. Our clients in wellness who broke through this plateau focused obsessively on getting customers to buy 2-3 times, not just converting new people.\n\nYour online sales dropping 30% from peak is a red flag. That's not normal fluctuation, something changed. Did you stop doing what was working? Did ad costs spike? Did a competitor launch? You need to diagnose what actually caused that drop instead of just accepting it.\n\nReleasing new products when your existing ones aren't retaining customers is just spreading yourself thinner. Fix retention on what you already have before you add complexity. Get your current customers buying more frequently or in higher amounts.\n\nThe storefront gives you an advantage most online wellness brands don't have. Use it to build real relationships with local customers who become regulars. Those people should be your core base that stabilizes revenue even when online fluctuates.\n\nFor breaking past $200k, you need either way better retention so your customer base actually grows instead of staying flat, or you need to increase average order value so the same number of customers generate more revenue. Pick one and focus there for 6 months.\n\nCheck your numbers honestly. What's your repeat purchase rate? If it's under 30%, that's your problem. What's your customer lifetime value? If people only buy once for $50, you can't profitably scale. Fix those fundamentals before you worry about growth tactics."
+  },
+  {
+   "id": "njicn6d",
+   "parent_id": "t3_1o4b9dl",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "nk6cdc3",
+   "parent_id": "t3_1o4b9dl",
+   "author": "George_Salt",
+   "score": 1,
+   "depth": 0,
+   "body": "Are you retaining customers or constantly churning?\n\nIs there a constraint on the market the caps the potential?"
+  },
+  {
+   "id": "nlp1q93",
+   "parent_id": "t3_1o4b9dl",
+   "author": "conkbro",
+   "score": 1,
+   "depth": 0,
+   "body": "Nice, congrats on hitting 200k! \n\nEither you've hit your total addressable market (doubtful) or you need to look at new marketing methods that can scale (like running Facebook ads). \n\ngood luck!!"
+  }
+ ]
+}

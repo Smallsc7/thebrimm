@@ -1,0 +1,51 @@
+coach            r/smallbusiness        'coach': total 100
+mastermind       r/smallbusiness        'mastermind': total 111
+consultant       r/smallbusiness        'consultant': total 207
+agency           r/smallbusiness        'agency': total 307
+maxed-out        r/smallbusiness        'overwhelmed': total 407
+maxed-out        r/smallbusiness        'burnout': total 506
+plateau          r/smallbusiness        'plateau': total 518
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=smallbusiness&title=stuck&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+plateau          r/smallbusiness        'stuck': total 868
+spouse           r/smallbusiness        'husband': total 923
+coach            r/Entrepreneur         'coach': total 1023
+mastermind       r/Entrepreneur         'mastermind': total 1045
+consultant       r/Entrepreneur         'consultant': total 1143
+maxed-out        r/Entrepreneur         'overwhelmed': total 1225
+maxed-out        r/Entrepreneur         'burnout': total 1325
+plateau          r/Entrepreneur         'plateau': total 1330
+spouse           r/Entrepreneur         'husband': total 1348
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=femalefounders&title=coach&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=femalefounders&title=coach&after=2025-01-01&before=2025-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+coach            r/femalefounders       'coach': total 1357
+mastermind       r/femalefounders       'mastermind': total 1360
+consultant       r/femalefounders       'consultant': total 1364
+agency           r/femalefounders       'agency': total 1384
+maxed-out        r/femalefounders       'overwhelmed': total 1395
+maxed-out        r/femalefounders       'burnout': total 1403
+plateau          r/femalefounders       'stuck': total 1434
+spouse           r/femalefounders       'husband': total 1439
+coach            r/EtsySellers          'coach': total 1442
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=EtsySellers&title=wholesale&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+wholesale        r/EtsySellers          'wholesale': total 1474
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=EtsySellers&title=overwhelmed&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+maxed-out        r/EtsySellers          'overwhelmed': total 1486
+maxed-out        r/EtsySellers          'burnout': total 1493
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=EtsySellers&title=stuck&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=EtsySellers&title=stuck&after=2025-07-01&before=2026-01-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=EtsySellers&title=stuck&after=2026-07-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+plateau          r/EtsySellers          'stuck': total 1607
+spouse           r/EtsySellers          'husband': total 1608
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=jewelrymaking&title=business&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+creative-owner   r/jewelrymaking        'business': total 1696
+wholesale        r/jewelrymaking        'wholesale': total 1733
+maxed-out        r/jewelrymaking        'burnout': total 1743
+creative-owner   r/interiordesign_pros  'business': total 1743
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=interiordesign_pros&title=coach&after=2025-01-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=interiordesign_pros&title=coach&after=2025-01-01&before=2025-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=interiordesign_pros&title=coach&after=2026-01-01&before=2026-07-01&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+  FAILED https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=interiordesign_pros&title=coach&after=2026-07-01&before=2026-10-03&limit=100&fields=id%2Ctitle%2Cnum_comments%2Cscore%2Ccreated_utc%2Csubreddit%2Cauthor&sort=desc: HTTP Error 422: Unprocessable Entity
+coach            r/interiordesign_pros  'coach': total 1743
+creative-owner   r/interiordesign_pros  'clients': total 1743
+creative-owner   r/interiordesign_pros  'grow': total 1743
+1743 posts, 6 failed requests

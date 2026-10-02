@@ -1,0 +1,1105 @@
+{
+ "schema_version": "1.0.0",
+ "run": {
+  "status": "full",
+  "collection_tier": "collector",
+  "run_id": "2e8b",
+  "started_at": "2026-10-01T23:50:23Z",
+  "finished_at": "2026-10-02T01:35:16Z",
+  "market": "US (and other English-speaking) owners of established, customer-backed small businesses considering growth help (coaching, consultants, masterminds); the ground truth's buyer is women, often creatives, at $100K+",
+  "business": "The BRIMM / Founder Forum (ground truth: research/GROUND-TRUTH.md from BUSINESS-MEMORY.md v1.1)",
+  "decision": "Which buyers to prioritise, what message makes Founder Forum worth acting on now, which channels to focus on for 7 members by Oct 14 and about 26 by mid-December; whether coaching reads as more work, and what would make it feel like relief.",
+  "previous_run": "20261001T220852Z-2997 (blocked: network)",
+  "lead_requires_human_confirmation": true
+ },
+ "coverage": {
+  "collection_tier": "collector",
+  "collector": "last30days v3.26.0 ran (Reddit via its site-search and Arctic Shift supplement, YouTube search, Hacker News). Depth pass by hand through the Arctic Shift Reddit archive API.",
+  "sources_searched": [
+   "reddit (collector + Arctic Shift archive)",
+   "youtube (collector search)",
+   "hackernews (collector)",
+   "trustpilot (web fetch)",
+   "google autocomplete",
+   "host web search"
+  ],
+  "sources_returning_usable": [
+   "reddit",
+   "trustpilot (thin, digest only)",
+   "google autocomplete (terms only, no volume)"
+  ],
+  "sources_unavailable": [
+   {
+    "source": "reddit.com direct",
+    "reason": "403 from this host; reached through the Arctic Shift archive instead"
+   },
+   {
+    "source": "youtube comments",
+    "reason": "yt-dlp 'Sign in to confirm you're not a bot' on the two most relevant videos; no cookies on this host"
+   },
+   {
+    "source": "x, tiktok, instagram",
+    "reason": "no credentials configured (no X backend, no ScrapeCreators key)"
+   },
+   {
+    "source": "google trends",
+    "reason": "429 Too Many Requests; no search-volume tool available"
+   },
+   {
+    "source": "r/interiordesign_pros",
+    "reason": "zero results; the community name may be wrong; interior designers' business talk was not reached"
+   },
+   {
+    "source": "hackernews",
+    "reason": "ran, returned only off-market items"
+   }
+  ],
+  "review_estate_blocked": [
+   {
+    "source": "g2.com",
+    "reason": "403 JavaScript challenge"
+   },
+   {
+    "source": "capterra.com",
+    "reason": "403"
+   },
+   {
+    "source": "yelp.com",
+    "reason": "403 JavaScript challenge"
+   },
+   {
+    "source": "trustpilot: vistage.com, strategiccoach.com",
+    "reason": "pages exist but hold 0 reviews (closest structural peers)"
+   },
+   {
+    "source": "trustpilot: businessmadesimple.com, entreleadership.com",
+    "reason": "404, no page"
+   },
+   {
+    "source": "youtube comments",
+    "reason": "bot gate, see sources_unavailable"
+   }
+  ],
+  "depth_route": "discussions-only",
+  "discussions_opened": 36,
+  "review_pages_opened": 4,
+  "own_buyer_items": 1,
+  "own_buyer_evidence": "one prospect discovery call (Prospect L.W., jewelry, 2026-09-24), from BUSINESS-MEMORY.md; prospect not customer; not for marketing use",
+  "candidates_harvested": 1743,
+  "comments_read": 2473,
+  "quotes_kept": 52,
+  "harvest_queries": 37,
+  "harvest_failed_requests": 6,
+  "harvest_limit_note": "each archive query returns at most the 100 most recent matching titles, so high-volume terms (e.g. 'coach' in r/smallbusiness) are truncated to recent posts",
+  "window": "Reddit archive 2025-01-01 to 2026-10-02 (about 21 months, wider than 30 days because this market's conversation is low-volume); collector 2026-07-03 to 2026-10-01",
+  "excluded": [
+   "r/smallbusiness 1jp0pvn and the coach recommendations in 1jxig8f: astroturfing for one coaching firm, called out by other commenters (R10)",
+   "r/smallbusiness 1ns3nsv: called out as a disguised ad (R51)",
+   "HN breadth items: off-market"
+  ],
+  "geography": "English-language sources do not establish the US. Few posts state a location.",
+  "gender": "Most r/smallbusiness and r/Entrepreneur posters do not state gender. Women-specific evidence is three r/Femalefounders items (R27-R29) plus the one prospect call. The buyer being a woman is ground truth, not something this corpus establishes.",
+  "confidence": "medium",
+  "confidence_detail": "High on the trust gap around coaching. Medium on the plateau and operator desires. Low on women-specific, creative-specific, spouse and busy-season findings. No measured evidence on channels.",
+  "stop_rule_fired": "depth bar met, and a targeted search of all 2,473 collected documents for the 'busy / more work' objection returned only repeats of themes already banked"
+ },
+ "desires": [
+  {
+   "id": "D2",
+   "rank": 1,
+   "label": "OBSERVED",
+   "confidence": "medium",
+   "name_market_words": "stuck at the same revenue for years and can't pin down why (\"stuck\", \"plateau\", \"revenue ceiling\")",
+   "core_desire_sentence": "Break through the number the business has been stuck at, by finding what is actually holding it there.",
+   "quote": "I've been stuck at $200k in revenue for three years now",
+   "source_ids": [
+    "R31",
+    "R32",
+    "R33",
+    "R37",
+    "R39",
+    "R14"
+   ],
+   "why_chain": [
+    {
+     "link": "I want help growing my business",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R11"
+     ]
+    },
+    {
+     "link": "because revenue has been flat for years despite more effort",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R31",
+      "R37"
+     ]
+    },
+    {
+     "link": "because I can't pin down what is wrong",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R14"
+     ]
+    },
+    {
+     "link": "so my hard work isn't turning into money I keep",
+     "label": "INFERRED",
+     "inferred_from": "R36 and R41: owners paying everyone but themselves",
+     "source_ids": [
+      "R36",
+      "R41"
+     ]
+    },
+    {
+     "link": "so I'm not sure what I built will ever give me the security I started it for",
+     "label": "INFERRED",
+     "inferred_from": "R35 'something I'm chained to'; R32 'margins squeezed'",
+     "source_ids": [
+      "R35",
+      "R32"
+     ]
+    }
+   ],
+   "hell_scene": "Another December looking at the same annual number, again. She has launched new products, posted more, tried another channel, and still loses a customer for every one she gains (R31). Her calendar is fuller than ever, but when she looks at the month nothing has moved (R37).",
+   "heaven_scene": "She knows which one change moved the number: a price, a repeat-purchase program, a sales step. She can point to it in her books, and the business finally pays her a fair wage (R19).",
+   "scores": {
+    "scope": {
+     "value": 7,
+     "evidence": "six or more threads across r/smallbusiness and r/Entrepreneur; R31 has 103 points and 94 comments; 'stuck' appears in 64 of 2,473 documents, 'plateau' in 12, 'ceiling' in 10"
+    },
+    "urgency": {
+     "value": 6,
+     "evidence": "owners posting for help after years at the number; some have $20-30K set aside to spend (R32)"
+    },
+    "staying_power": {
+     "value": 7,
+     "evidence": "multi-year plateaus (R31 three years, R33 four years) and owners who say they keep 'circling' (R11)"
+    }
+   },
+   "intensity_tier": "keep-me-up-at-night",
+   "intensity_label": "INFERRED",
+   "intensity_inferred_from": "multi-year frustration, money set aside, 'very frustrating' (R31), 'completely stuck... exhausted' (R37)",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no search-volume tool reachable (Google Trends 429); autocomplete shows related queries exist ('how to scale a small business', 'small business growth plan', G04/G05/G13) but carries no volume",
+   "product_fit": "Strong. Month 1 diagnoses from her goals, numbers and operations. The ground truth names the levers (marketing, pricing, repeat purchases, sales process, capacity), and market evidence says the stated problem is often not the real one (R23). Founder Forum cannot guarantee the result (no income guarantees).",
+   "instinct": "Control (certainty about what to do next), with Status",
+   "technological_problem": "Complexity: 'can't pin down what'"
+  },
+  {
+   "id": "D1",
+   "rank": 2,
+   "label": "OBSERVED",
+   "confidence": "medium",
+   "name_market_words": "someone who's actually done it, to sanity-check my decisions (\"operator\", not a \"grifter\")",
+   "core_desire_sentence": "Have an experienced operator look at the business and say plainly what to do next.",
+   "quote": "I don't have a clear, actionable plan to get there, and I don't have anyone experienced enough around me to sanity-check my decisions.",
+   "source_ids": [
+    "R11",
+    "R02",
+    "R25",
+    "R34",
+    "R08"
+   ],
+   "why_chain": [
+    {
+     "link": "I want an advisor who has run a business",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R25",
+      "R02"
+     ]
+    },
+    {
+     "link": "because advice from people who haven't done it was useless to me",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R01",
+      "R20"
+     ]
+    },
+    {
+     "link": "because I need my decisions checked by someone who has seen this before",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R11"
+     ]
+    },
+    {
+     "link": "because alone I second-guess myself",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R21"
+     ]
+    },
+    {
+     "link": "so I can make the big calls with confidence instead of guessing",
+     "label": "INFERRED",
+     "inferred_from": "R21 imposter syndrome; R24 'about to make a big bet'",
+     "source_ids": [
+      "R21",
+      "R24"
+     ]
+    }
+   ],
+   "hell_scene": "She pays $800 a month for six months and ends up with a Google doc she could have written herself, plus calls where the coach mostly takes notes (R01).",
+   "heaven_scene": "Someone who has run companies reads her numbers, names the move, and is there when she is unsure whether to take the wholesale order or hire.",
+   "scores": {
+    "scope": {
+     "value": 6,
+     "evidence": "recurring in r/smallbusiness coaching threads (R02, R08, R11, R25, R34); 'operator' appears in 16 documents, 'mentor' in 54"
+    },
+    "urgency": {
+     "value": 6,
+     "evidence": "owners have paid for coaches before (R01, R20) and are asking again (R11)"
+    },
+    "staying_power": {
+     "value": 6,
+     "evidence": "comes back at each new stage or big decision (R24)"
+    }
+   },
+   "intensity_tier": "keep-me-up-at-night",
+   "intensity_label": "INFERRED",
+   "intensity_inferred_from": "paid and searching again despite bad experiences",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no volume tool; autocomplete has 'is hiring a business coach worth it', 'are business coaches worth it reddit', 'how much does a business coach cost' (G02)",
+   "product_fit": "Strong on proof. Sallie's credentials as stated in the ground truth (CEO-for-hire at 6 companies over 7 years, law-firm CEO, led a ~300-rep sales team, ~22 years as an entrepreneur) match the 'has actually done it' bar. The buyer may want same-industry experience (R02), which a mixed group does not offer, though R23 argues most problems are generic.",
+   "instinct": "Control",
+   "technological_problem": "Complexity"
+  },
+  {
+   "id": "D4",
+   "rank": 3,
+   "label": "OBSERVED",
+   "confidence": "low",
+   "name_market_words": "profit and a fair paycheck, not just revenue (\"profit\", \"paycheck\")",
+   "core_desire_sentence": "Make the business pay the owner properly.",
+   "quote": "running a 17.5% net profit while taking a fair paycheck of over 75k",
+   "source_ids": [
+    "R19",
+    "R36",
+    "R41",
+    "R42"
+   ],
+   "why_chain": [
+    {
+     "link": "I want to grow",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R41"
+     ]
+    },
+    {
+     "link": "because every hire eats the revenue and nothing is left over",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R41"
+     ]
+    },
+    {
+     "link": "because I haven't been paid more than I need to survive",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R36"
+     ]
+    },
+    {
+     "link": "so the business would finally feel worth what it costs me",
+     "label": "ASSUMPTION",
+     "test": "on discovery calls, ask 'what would you pay yourself if this worked?' and log whether owner pay comes up unprompted"
+    }
+   ],
+   "hell_scene": "Twenty years in, customers love the product, and the owner still takes home only what keeps the lights on (R36).",
+   "heaven_scene": "A real margin and a paycheck she is not embarrassed by (R19).",
+   "scores": {
+    "scope": {
+     "value": 5,
+     "evidence": "'profit' appears in 81 documents; owner-pay is explicit in fewer (paycheck/pay myself in 4)"
+    },
+    "urgency": {
+     "value": 5,
+     "evidence": "owners describe a cycle they cannot break (R41)"
+    },
+    "staying_power": {
+     "value": 7,
+     "evidence": "years-long (R36)"
+    }
+   },
+   "intensity_tier": "annoyance",
+   "intensity_label": "INFERRED",
+   "intensity_inferred_from": "voiced as a long-standing grievance rather than an emergency",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no volume tool",
+   "product_fit": "Good. The ground truth says the program turns growth into better owner pay and an easier business, and pricing is a named lever (also R42 'charge more'). No income guarantees.",
+   "instinct": "Control (security)",
+   "technological_problem": "Maintenance"
+  },
+  {
+   "id": "D3",
+   "rank": 4,
+   "label": "OBSERVED",
+   "confidence": "medium",
+   "name_market_words": "get out of the weeds, stop being the bottleneck (\"in the weeds\", \"bottleneck\", \"firefighting\")",
+   "core_desire_sentence": "Have a business that does not need the owner in every decision.",
+   "quote": "I'm still the bottleneck for hiring, sales, and a bunch of day-to-day stuff that should be delegated by now.",
+   "source_ids": [
+    "R11",
+    "R37",
+    "R38",
+    "R40",
+    "R43",
+    "R18"
+   ],
+   "why_chain": [
+    {
+     "link": "I want help growing",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R11"
+     ]
+    },
+    {
+     "link": "because everything still runs through me",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R11",
+      "R40"
+     ]
+    },
+    {
+     "link": "because I can't trust anyone else with it",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R40"
+     ]
+    },
+    {
+     "link": "so I'm exhausted and the business stands still",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R37"
+     ]
+    },
+    {
+     "link": "so I want my evenings and weekends back",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R43"
+     ]
+    }
+   ],
+   "hell_scene": "Every day is the same fires: sales issues, team conflicts, client complaints. She goes to bed tired, and the month ends where it started (R37).",
+   "heaven_scene": "'One day, when the business runs itself, it'll be all worth it' (R43). She takes Sundays off and the business does not notice.",
+   "scores": {
+    "scope": {
+     "value": 6,
+     "evidence": "'bottleneck' appears in 21 documents, 'overwhelm' in 13, plus several burnout threads"
+    },
+    "urgency": {
+     "value": 6,
+     "evidence": "exhaustion and burnout posts (R37; r/smallbusiness 1iy0jch, 243 comments)"
+    },
+    "staying_power": {
+     "value": 8,
+     "evidence": "ongoing, and it worsens as the business grows"
+    }
+   },
+   "intensity_tier": "keep-me-up-at-night",
+   "intensity_label": "INFERRED",
+   "intensity_inferred_from": "burnout language",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no volume tool; autocomplete has 'small business owner burnout', 'small business owner burnout reddit' (G07)",
+   "product_fit": "Partial. Months 4-6 build process and support so progress depends less on her. But there are no done-for-you services, and the market's 'off my plate' language (R47) partly means someone doing the work. The contractor network covers only part of that. Leading with relief from workload risks promising what months 1-3 do not deliver.",
+   "instinct": "Comfort, with Control",
+   "technological_problem": "Overwhelm / Maintenance"
+  },
+  {
+   "id": "D5",
+   "rank": 5,
+   "label": "OBSERVED",
+   "confidence": "low",
+   "name_market_words": "not doing it alone (\"lonely\", \"too solo\", \"sounding board\")",
+   "core_desire_sentence": "Have people who get it to think out loud with.",
+   "quote": "It's lonely as a small business owner in the sense where I have no one to share my struggles with.",
+   "source_ids": [
+    "R21",
+    "R29",
+    "R30",
+    "R27"
+   ],
+   "why_chain": [
+    {
+     "link": "I want a group of peers",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R27"
+     ]
+    },
+    {
+     "link": "because there is no one to share struggles with",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R21"
+     ]
+    },
+    {
+     "link": "so I doubt my own decisions",
+     "label": "OBSERVED",
+     "source_ids": [
+      "R21"
+     ]
+    },
+    {
+     "link": "so I want to belong among people building real businesses",
+     "label": "INFERRED",
+     "inferred_from": "R27, R30",
+     "source_ids": [
+      "R27",
+      "R30"
+     ]
+    }
+   ],
+   "hell_scene": "Making every big call alone at the kitchen table.",
+   "heaven_scene": "A small group of about ten who know her numbers and her goals (R27 wants exactly this size).",
+   "scores": {
+    "scope": {
+     "value": 4,
+     "evidence": "a handful of threads, mostly r/Femalefounders"
+    },
+    "urgency": {
+     "value": 3,
+     "evidence": "voiced as nice-to-have"
+    },
+    "staying_power": {
+     "value": 7,
+     "evidence": "ongoing"
+    }
+   },
+   "intensity_tier": "must-be-nice",
+   "intensity_label": "INFERRED",
+   "intensity_inferred_from": "nobody describes it as urgent",
+   "demand_proxy": null,
+   "demand_proxy_unknown_reason": "no volume tool; 'mastermind for women business owners' returned only generic completions (G03)",
+   "product_fit": "Good. Groups of 8-10. A supporting benefit, not a lead.",
+   "instinct": "Belonging",
+   "technological_problem": "none"
+  }
+ ],
+ "lead_desire": {
+  "desire_id": "D2",
+  "label": "INFERRED",
+  "inferred_from": "rank of D2 under the stated policy, plus D1 as the proof that makes it believable",
+  "source_ids": [
+   "R31",
+   "R33",
+   "R37",
+   "R11",
+   "R02"
+  ],
+  "statement": "Lead with D2: 'you have been stuck at the same number, and it is not for lack of effort'. Make D1 (an operator who has run companies reads your actual numbers) the mechanism and proof, and D4 (profit and a fair paycheck) the payoff.",
+  "weighting_policy": "Pre-launch, with a first-group target of 7 by Oct 14, ads capped at $2,500/month and no cold outreach. So urgency, reachability and product fit outrank raw scope. D3 has comparable scope and urgency, but Founder Forum serves it only partly in the first three months (no done-for-you), so it fails gate 3 as a lead.",
+  "needs_human_confirmation": true,
+  "plateau_plan": "If the plateau angle stops converting, vary the expression first (new hooks on the same desire). Then move to D4 (profit and paycheck), then D3 (out of the weeds) with honest month 4-6 framing."
+ },
+ "relief_question": [
+  {
+   "id": "RL1",
+   "label": "OBSERVED",
+   "text": "The objection 'I can't add one more thing to my plate' / 'wait for a less busy season' does not appear in this public corpus: 'one more thing' 0 times, 'less busy' 0, 'on my plate' 0, across 2,473 documents. It rests on the owner's report alone. Absence from a sample is not absence from the market.",
+   "source_ids": [
+    "GT1"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "RL2",
+   "label": "OBSERVED",
+   "text": "What owners do fear about coaching is paying for something useless: 'mostly vibes', a 90-day plan they could have made themselves, coaches who 'mostly asked me questions and took notes', paying 'for someone's time, not their results'.",
+   "source_ids": [
+    "R01",
+    "R07",
+    "R08",
+    "R20"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "RL3",
+   "label": "INFERRED",
+   "text": "So 'more work' is probably the polite surface of 'more work with no payoff'. Help reads as relief when it (a) starts from her real numbers and names one move (R13, R23), (b) is hands-on rather than generic (R03), (c) ties the fee to a measurable result (R06, R07), and (d) has an end point (R17). Founder Forum already has all four: month-1 diagnosis from her numbers, between-call support, a success fee measured from her books, and a six-month term with exit any time.",
+   "source_ids": [
+    "R13",
+    "R23",
+    "R03",
+    "R06",
+    "R07",
+    "R17"
+   ],
+   "confidence": "medium",
+   "inferred_from": "RL2 plus the help descriptions in R13, R23, R03, R06, R17"
+  },
+  {
+   "id": "RL4",
+   "label": "ASSUMPTION",
+   "text": "Ideal buyers raise the 'busy season' objection often enough to address in ads, not only on calls.",
+   "source_ids": [],
+   "test": "Log the objection verbatim on every discovery call from now to Oct 14 (frequency is currently untracked). If it comes up on fewer than a third of calls, handle it on calls rather than in ads."
+  },
+  {
+   "id": "RL5",
+   "label": "INFERRED",
+   "text": "Market buyers say 'off my plate' when someone takes work away (R47 via a free SBDC mentor). Founder Forum's honest version is the referral network (accountant, bookkeeper) plus a plan that cuts what she does, not doing her work.",
+   "source_ids": [
+    "R47",
+    "GT1"
+   ],
+   "confidence": "low",
+   "inferred_from": "R47 and the ground truth's 'does NOT do' list"
+  }
+ ],
+ "findings": [
+  {
+   "id": "F01",
+   "label": "OBSERVED",
+   "text": "Business coaching for small-business owners carries a deep trust deficit. It is called a scam, 'unregulated garbage' and 'predatory', and Reddit coaching threads are visibly astroturfed by one coaching firm.",
+   "source_ids": [
+    "R01",
+    "R03",
+    "R10",
+    "R12",
+    "R20",
+    "R52"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "F02",
+   "label": "OBSERVED",
+   "text": "The bar buyers set is operating experience: 'I would only ever consider someone who's actually operated at a successful level'.",
+   "source_ids": [
+    "R25",
+    "R02",
+    "R34",
+    "R08"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "F03",
+   "label": "OBSERVED",
+   "text": "A plan alone is the failed product. Owners want execution support: a fractional CFO says 'without coaching my clients won't execute on our strategy', and AI is dismissed because it 'can't... keep you accountable'.",
+   "source_ids": [
+    "R04",
+    "R15",
+    "R01"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "F04",
+   "label": "OBSERVED",
+   "text": "Buyers want fees tied to outcomes: 'never pay a coach unless they are delivering a specific outcome with a measurable benefit'.",
+   "source_ids": [
+    "R06",
+    "R07",
+    "R44"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "F05",
+   "label": "OBSERVED",
+   "text": "Free substitutes are the default recommendation in these threads: SCORE / SBDC mentors and ChatGPT or Claude.",
+   "source_ids": [
+    "R16",
+    "R47",
+    "R15"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "F06",
+   "label": "OBSERVED",
+   "text": "One award-winning maker of personalised products describes exactly Founder Forum's format working for her: monthly 1:1, a monthly group with other owners, accounting and marketing set up, held accountable. She is a single, unverified Reddit voice.",
+   "source_ids": [
+    "R18",
+    "R19"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "F07",
+   "label": "OBSERVED",
+   "text": "Owners resent being treated as 'a creative who knew nothing about business'.",
+   "source_ids": [
+    "R22"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "F08",
+   "label": "OBSERVED",
+   "text": "Owners often hire help for the wrong problem: 'the Acceptable Problem they're prepared to talk about'. Several plateau threads list marketing already tried (SEO, sales training, new products).",
+   "source_ids": [
+    "R23",
+    "R33",
+    "R31"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "F09",
+   "label": "OBSERVED",
+   "text": "Creative-seller communities (r/EtsySellers, r/jewelrymaking) are dominated by early-stage and hobby sellers well below $100K, so they are not where established creative owners talk.",
+   "source_ids": [
+    "R49",
+    "R50",
+    "R46"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "F10",
+   "label": "OBSERVED",
+   "text": "Women founders ask for small groups of about ten, not 'huge, noisy 2,000-person communities'.",
+   "source_ids": [
+    "R27",
+    "R29"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "F11",
+   "label": "INFERRED",
+   "text": "Trust in this category travels by referral ('Five years of networking and multiple referrals says a lot more than a random recommendation'), and Reddit is hostile to coaches promoting themselves. That supports leaning on past clients and referrals, which the owner reports as 60% of sales.",
+   "source_ids": [
+    "R48",
+    "R10",
+    "R12",
+    "GT1"
+   ],
+   "confidence": "low",
+   "inferred_from": "R48 trust-by-referral; R10 and R12 hostility; GT1 sales mix"
+  },
+  {
+   "id": "F12",
+   "label": "INFERRED",
+   "text": "The spouse acts as an investor who wants proof and low risk before funding.",
+   "source_ids": [
+    "R45",
+    "OB1"
+   ],
+   "confidence": "low",
+   "inferred_from": "R45 advice to treat the husband as an investor; OB1 prospect wants to 'sit down also with my husband'"
+  },
+  {
+   "id": "F13",
+   "label": "OBSERVED",
+   "text": "Comparable programs' public reviews are thin. ActionCOACH is 4.8 from 88 reviews, Hello Seven 2.9 from 2 (complaints of a mastermind 'bait and switch', founder rarely present), and Vistage and Strategic Coach have no reviews. The review estate gives little to argue against.",
+   "source_ids": [
+    "T01",
+    "T02",
+    "T05",
+    "T06"
+   ],
+   "confidence": "low"
+  }
+ ],
+ "avatars": [
+  {
+   "id": "A1",
+   "label": "INFERRED",
+   "evidence_status": "hypothesis",
+   "inferred_from": "public discussions (gender unstated, geography unestablished) plus one prospect call; no customer evidence",
+   "source_ids": [
+    "R31",
+    "R11",
+    "R18",
+    "R19",
+    "R22",
+    "OB1"
+   ],
+   "core": "Owners of established, customer-backed businesses stuck at the same revenue for a year or more who can't pin down why (D2).",
+   "fields": {
+    "1_persona": "This is for a woman running an established business with customers that has been stuck at about the same revenue for a year or more, who has already tried more marketing, new products, DIY research and perhaps a coach, and who needs to see that the person helping has actually run and grown companies, and that the fee is tied to results, before buying.",
+    "2_trigger": "Another year at the same number (R31, R33), or about to make a big bet such as wholesale, PR or an agency (R24, R32, OB1).",
+    "3_failed_alternatives": "More marketing, SEO and new products (R31, R33); ChatGPT/Claude; free SCORE mentors (R16); coaches with no operating record (R01, R20); consultants who didn't understand the business (R22).",
+    "4_awareness": "Problem-aware ('stuck'), and solution-aware of coaching but distrustful. Basis: R01, R10, R11.",
+    "5_proof_path": "Operator track record (R02, R25, R34); specific, measurable outcomes (R06); referrals from people she trusts (R48); a low-commitment trial (R05).",
+    "6_angle": "The argument is that being stuck at the same number for years is rarely an effort problem, it is one unidentified lever in her own numbers, so this owner can find and pull the move that matters without paying for another round of generic advice or doing more of everything.",
+    "7_offer_frame": "The offer frames Founder Forum as paying for results, not time (a monthly fee with exit any time, plus a success fee only if she hits the goal measured from her books), because the first group starts Oct 14 and the fall is when her numbers move [ASSUMPTION: the fall urgency is the owner's view].",
+    "8_hook_promise": "The opening promises recognition of her exact situation ('same revenue three years running, more effort every year') through plain founder-voice copy, without promising growth or naming the program first.",
+    "9_format": "Founder-voice text (email, post) or short talking-head video [ASSUMPTION].",
+    "10_funnel_stage": "Considering (warm network and referrals) first; cold second.",
+    "11_market_language": "US English, plain and direct: 'stuck', 'plateau', 'revenue ceiling', 'bottleneck', 'in the weeds', 'profit', 'mentor'. Avoid 'boss babe' and hype.",
+    "12_belief_shift": "Currently believes 'coaches are people who couldn't make it running an actual business' (R01) and, per the owner, that growth means working harder (GT1). Must believe 'someone who has run companies will read my actual numbers and show me the one move'.",
+    "13_identity": "Before: 'very good at creating... not the best at business things' (R18). After: an owner who knows her numbers and runs the business like a CEO.",
+    "14_pain_ladder": "Surface: flat revenue. Deeper: working harder for less, paying everyone but herself (R36, R41). Deepest: what she built feels like something she is chained to (R35). Desire ladder: break through the number, then profit and a fair paycheck (R19), then a business that runs without her in every decision (R43).",
+    "14b_why_chain": "See D2.why_chain (each link labelled).",
+    "15_emotion_and_cost": "Frustrated, exhausted, alone (R31, R37, R21). Cost of inaction: another flat year, and burnout (R35).",
+    "16_objections": "O1-O7.",
+    "17_value_sensitivity": "Hypothesis: she will pay $800+/month but resents generic output (R01). A retainer she can't measure is a non-starter (R44). She compares against free SCORE and AI (R16) and prefers help with an end point (R17). The success fee and exit terms are likely enabling, not a barrier.",
+    "18_evidence": "hypothesis. Built from 36 public discussions plus one prospect call; not validated by customers."
+   },
+   "sub_avatars": [
+    {
+     "id": "A1-S1",
+     "label": "INFERRED",
+     "inferred_from": "R24, R32, OB1",
+     "source_ids": [
+      "R24",
+      "R32",
+      "OB1"
+     ],
+     "trigger": "Weighing a big move (wholesale, PR, an agency, a new channel).",
+     "angle": "Before you spend on the big move, find out which move your numbers support."
+    },
+    {
+     "id": "A1-S2",
+     "label": "INFERRED",
+     "inferred_from": "R11, R37, R40",
+     "source_ids": [
+      "R11",
+      "R37",
+      "R40"
+     ],
+     "trigger": "Exhausted and the bottleneck in everything.",
+     "angle": "Busy isn't growing; one plan, two calls a month (honest about months 4-6 for the 'runs without me' part)."
+    }
+   ],
+   "excluded_segment": {
+    "label": "OBSERVED",
+    "source_ids": [
+     "R49",
+     "R50"
+    ],
+    "text": "Early-stage Etsy and jewelry sellers (they dominate the creative communities) are below the fit line in the ground truth."
+   }
+  }
+ ],
+ "four_sentences": {
+  "persona": "This is for a woman running an established business with customers that has been stuck at about the same revenue for a year or more, who has already tried more marketing, new products, DIY research and perhaps a coach, and who needs to see that the person helping has actually run and grown companies, and that the fee is tied to results, before buying.",
+  "angle": "The argument is that being stuck at the same number for years is rarely an effort problem, it is one unidentified lever in her own numbers, so this owner can find and pull the move that matters without paying for another round of generic advice or doing more of everything.",
+  "offer": "The offer frames Founder Forum as paying for results, not time (a monthly fee with exit any time, plus a success fee only if she hits the goal measured from her books), because the first group starts Oct 14 and the fall is when her numbers move [ASSUMPTION: the fall urgency is the owner's view].",
+  "hook_promise": "The opening promises recognition of her exact situation ('same revenue three years running, more effort every year') through plain founder-voice copy, without promising growth or naming the program first."
+ },
+ "objections": [
+  {
+   "id": "O1",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R01",
+    "R12",
+    "R20"
+   ],
+   "surface": "Business coaches are a scam / grifters.",
+   "real": "I'll pay for vibes and still have to figure it out myself.",
+   "response_type": "proof object + mechanism",
+   "response": "Show what she gets in month 1 (a plan built from her own numbers) and who builds it (an operator record, specifics). Avoid 'accountability / mindset / clarity' language (R26)."
+  },
+  {
+   "id": "O2",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R02",
+    "R25",
+    "R22"
+   ],
+   "surface": "They haven't run a business like mine.",
+   "real": "They won't understand my business and will waste my time.",
+   "response_type": "mechanism + FAQ",
+   "response": "Start from her books and goals before advising. FAQ on why cross-industry peers help (R23, R30)."
+  },
+  {
+   "id": "O3",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R44",
+    "R14",
+    "R06"
+   ],
+   "surface": "I can't justify it / can't tell if it's working.",
+   "real": "There is no way to see the return.",
+   "response_type": "risk reversal",
+   "response": "Success fee only if she hits the goal measured from her books; leave any time with no further payments. No ROI guarantee."
+  },
+  {
+   "id": "O4",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R16",
+    "R15",
+    "R04"
+   ],
+   "surface": "I can get advice free (SCORE, ChatGPT).",
+   "real": "Free advice doesn't make me act on it.",
+   "response_type": "mechanism + comparison FAQ",
+   "response": "Execution support between calls; plan, track and adjust in months 2-3."
+  },
+  {
+   "id": "O5",
+   "label": "ASSUMPTION",
+   "source_ids": [
+    "GT1"
+   ],
+   "test": "log on calls (see RL4)",
+   "surface": "I can't add one more thing / wait until I'm less busy.",
+   "real": "(inferred) more work with no payoff",
+   "response_type": "offer structure + FAQ",
+   "response": "Two one-hour calls a month; month 1 is diagnosis; the busy season is when the numbers to diagnose exist."
+  },
+  {
+   "id": "O6",
+   "label": "INFERRED",
+   "inferred_from": "R45, OB1",
+   "source_ids": [
+    "R45",
+    "OB1"
+   ],
+   "surface": "Let me talk to my husband.",
+   "real": "The spouse-investor needs a low-risk case.",
+   "response_type": "proof object",
+   "response": "A one-page spouse summary: terms, exit any time, success fee only on results, what month 1 produces."
+  },
+  {
+   "id": "O7",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R22",
+    "R18"
+   ],
+   "surface": "I'm a creative, not a business person.",
+   "real": "Don't talk down to me.",
+   "response_type": "copy guidance",
+   "response": "Talk to her as an owner who built this, not a creative who needs teaching."
+  }
+ ],
+ "alternatives": [
+  {
+   "id": "A1",
+   "label": "OBSERVED",
+   "text": "Doing more of the same (SEO, sales training, new products, more posting) is the incumbent.",
+   "source_ids": [
+    "R31",
+    "R33",
+    "R44"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "A2",
+   "label": "OBSERVED",
+   "text": "Free mentors through SCORE / SBDC are the most-recommended substitute; experiences range from 'absolutely terrible' to 'really helpful'.",
+   "source_ids": [
+    "R16",
+    "R47"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "A3",
+   "label": "OBSERVED",
+   "text": "AI as a free strategist (ChatGPT / Claude) is proposed in most help threads, with the counterpoint that it cannot hold anyone accountable.",
+   "source_ids": [
+    "R15"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "A4",
+   "label": "OBSERVED",
+   "text": "Fractional CFOs, consultants and accountants offer numbers-first strategy.",
+   "source_ids": [
+    "R04",
+    "R13"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "A5",
+   "label": "OBSERVED",
+   "text": "Self-organised peer groups.",
+   "source_ids": [
+    "R27",
+    "R30"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "A6",
+   "label": "OBSERVED",
+   "text": "Large coaching brands are known for big promises, high-pressure sales and an absent founder.",
+   "source_ids": [
+    "T02",
+    "T04",
+    "R20"
+   ],
+   "confidence": "low"
+  }
+ ],
+ "market_gaps": [
+  {
+   "id": "GM1",
+   "type": "trust gap",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R01",
+    "R10",
+    "R25"
+   ],
+   "text": "The category is distrusted, so answer with proof objects (operator record, books-measured success fee), not features."
+  },
+  {
+   "id": "GM2",
+   "type": "positioning gap",
+   "label": "INFERRED",
+   "inferred_from": "R26 on category language; R06 and R07 on outcome pricing",
+   "source_ids": [
+    "R26",
+    "R06",
+    "R07"
+   ],
+   "text": "Most coaching speaks 'accountability, mindset, clarity'. 'Pay for results, not time' and 'find the one move in your numbers' are open."
+  },
+  {
+   "id": "GM3",
+   "type": "education gap",
+   "label": "OBSERVED",
+   "source_ids": [
+    "R23",
+    "R33",
+    "R42"
+   ],
+   "text": "Owners assume the fix is more marketing when it may be pricing, retention or capacity."
+  },
+  {
+   "id": "GM4",
+   "type": "distribution gap",
+   "label": "INFERRED",
+   "inferred_from": "F09 and F11",
+   "source_ids": [
+    "R48",
+    "R49",
+    "R10"
+   ],
+   "text": "Established creative owners are not visible in creative communities, and Reddit punishes coach promotion. Warm and referral channels look like the reachable path."
+  },
+  {
+   "id": "GM5",
+   "type": "product gap",
+   "label": "INFERRED",
+   "inferred_from": "R47 'off my plate' vs the ground truth's no done-for-you",
+   "source_ids": [
+    "R47",
+    "GT1"
+   ],
+   "text": "Some buyers want work taken off their plate. Founder Forum offers referrals, not doing the work, so don't imply otherwise."
+  }
+ ],
+ "test_matrix": [
+  {
+   "id": "TM1",
+   "rank": 1,
+   "desire_id": "D2",
+   "intensity_tier": "keep-me-up-at-night",
+   "label": "ASSUMPTION",
+   "variable": "angle",
+   "cell": "Warm list and past-client email / 1:1 message: 'stuck at the same number' plateau angle vs 'pay for results, not time' success-fee angle. Same offer, same audience.",
+   "test": "Send each to half the warm list by Oct 7.",
+   "proves_wrong": "Neither angle produces a discovery call from the warm list within 5 business days, or the two do not differ."
+  },
+  {
+   "id": "TM2",
+   "rank": 2,
+   "desire_id": "D2",
+   "intensity_tier": "keep-me-up-at-night",
+   "label": "ASSUMPTION",
+   "variable": "channel",
+   "cell": "A specific referral ask to past clients ('who do you know who's been stuck at the same revenue?') vs continuing Meta at the current spend.",
+   "test": "Count discovery calls per channel for 10 days.",
+   "proves_wrong": "Referral asks produce zero calls in 10 days while Meta produces at least one."
+  },
+  {
+   "id": "TM3",
+   "rank": 3,
+   "desire_id": "D1",
+   "intensity_tier": "keep-me-up-at-night",
+   "label": "ASSUMPTION",
+   "variable": "proof",
+   "cell": "On discovery calls, give spouse-decision prospects a one-page spouse summary (terms, exit, success fee, month-1 output) vs no summary.",
+   "test": "Track decisions within 7 days of the call.",
+   "proves_wrong": "Prospects who get the summary decide no faster than those who don't."
+  },
+  {
+   "id": "TM4",
+   "rank": 4,
+   "desire_id": "D2",
+   "intensity_tier": "keep-me-up-at-night",
+   "label": "ASSUMPTION",
+   "variable": "hook",
+   "cell": "Meta (inside the $2,500 cap): a plateau hook in owners' words ('same revenue three years running?') vs the current creative.",
+   "test": "Two weeks, equal budget.",
+   "proves_wrong": "No difference in booked-call rate after equal spend."
+  },
+  {
+   "id": "TM5",
+   "rank": 5,
+   "desire_id": null,
+   "desire_id_unknown_reason": "measurement, not a desire test",
+   "intensity_tier": null,
+   "intensity_tier_unknown_reason": "not applicable",
+   "label": "ASSUMPTION",
+   "variable": "objection measurement",
+   "cell": "Log every objection verbatim on calls (see RL4).",
+   "test": "Tally by Oct 14.",
+   "proves_wrong": "The busy-season objection appears on under a third of calls."
+  }
+ ],
+ "asks": [
+  {
+   "id": "Q1",
+   "label": "ASSUMPTION",
+   "text": "The buyer is mostly women creatives at $100K+.",
+   "test": "Pull the last 10 discovery calls and past clients: count industry, revenue band, and whether the plateau trigger applies. The public corpus cannot answer this."
+  },
+  {
+   "id": "Q2",
+   "label": "ASSUMPTION",
+   "text": "What tipped Sarah K. and Fraulein Boots to buy (unknown).",
+   "test": "A 15-minute 'why did you say yes' call with each; record verbatim."
+  },
+  {
+   "id": "Q3",
+   "label": "ASSUMPTION",
+   "text": "Busy-season objection frequency.",
+   "test": "TM5."
+  },
+  {
+   "id": "Q4",
+   "label": "ASSUMPTION",
+   "text": "Testimonials and the $280K and $56K->$1M results become usable proof.",
+   "test": "Gather records and permissions; until then they cannot be used as fact."
+  },
+  {
+   "id": "Q5",
+   "label": "ASSUMPTION",
+   "text": "Demand size.",
+   "test": "Run Google Keyword Planner or Trends from a normal browser for 'business coach for women entrepreneurs', 'how to scale a small business', 'small business growth plan'. Record provider, geography, window and exclusions."
+  },
+  {
+   "id": "Q6",
+   "label": "ASSUMPTION",
+   "text": "Interior designers' business conversation was not reached.",
+   "test": "Search Houzz Pro / designer Facebook groups by hand, or ask two past interior-designer clients what they read."
+  }
+ ],
+ "compliance_flags": [
+  "No income or results guarantees in any angle; the plateau angle promises diagnosis, not growth.",
+  "The jewelry $280K, $56K->$1M and seven-figure claims stay out of copy until records and permissions exist.",
+  "R18/R19 are anonymous Reddit voices, not testimonials; never present them as clients.",
+  "Prospect L.W. lines are not for marketing use.",
+  "10x ROI only as a target."
+ ],
+ "phrase_bank_ref": "PACKET.md section 3 (every phrase cites a source_id)"
+}

@@ -1,0 +1,529 @@
+{
+ "post": {
+  "_meta": {
+   "is_edited": true,
+   "retrieved_2nd_on": 1789338056
+  },
+  "all_awardings": [],
+  "allow_live_comments": false,
+  "approved_at_utc": null,
+  "approved_by": null,
+  "archived": false,
+  "author": "Sensitive-Hearing-",
+  "author_flair_background_color": null,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "author_flair_template_id": null,
+  "author_flair_text": null,
+  "author_flair_text_color": null,
+  "author_flair_type": "text",
+  "author_fullname": "t2_gruz69df",
+  "author_is_blocked": false,
+  "author_patreon_flair": false,
+  "author_premium": false,
+  "awarders": [],
+  "banned_at_utc": null,
+  "banned_by": null,
+  "can_gild": false,
+  "can_mod_post": false,
+  "category": null,
+  "clicked": false,
+  "content_categories": null,
+  "contest_mode": false,
+  "created": 1789208447,
+  "created_utc": 1789208447,
+  "discussion_type": null,
+  "distinguished": null,
+  "domain": "self.Femalefounders",
+  "downs": 0,
+  "edited": false,
+  "gilded": 0,
+  "gildings": {},
+  "hidden": false,
+  "hide_score": false,
+  "id": "1we8w3c",
+  "is_created_from_ads_ui": false,
+  "is_crosspostable": false,
+  "is_meta": false,
+  "is_original_content": false,
+  "is_reddit_media_domain": false,
+  "is_robot_indexable": true,
+  "is_self": true,
+  "is_video": false,
+  "likes": null,
+  "link_flair_background_color": "",
+  "link_flair_css_class": null,
+  "link_flair_richtext": [],
+  "link_flair_text": null,
+  "link_flair_text_color": "dark",
+  "link_flair_type": "text",
+  "location_lat": null,
+  "location_long": null,
+  "location_name": null,
+  "locked": false,
+  "media": null,
+  "media_embed": {},
+  "media_only": false,
+  "mod_note": null,
+  "mod_reason_by": null,
+  "mod_reason_title": null,
+  "mod_reports": [],
+  "name": "t3_1we8w3c",
+  "no_follow": true,
+  "num_comments": 31,
+  "num_crossposts": 0,
+  "num_reports": null,
+  "over_18": false,
+  "permalink": "/r/Femalefounders/comments/1we8w3c/looking_to_assemble_a_small_mastermind_of_10/",
+  "pinned": false,
+  "pwls": 6,
+  "quarantine": false,
+  "removal_reason": null,
+  "removed_by": null,
+  "removed_by_category": null,
+  "report_reasons": null,
+  "retrieved_on": 1789208465,
+  "saved": false,
+  "score": 25,
+  "secure_media": null,
+  "secure_media_embed": {},
+  "selftext": "**Tl;dr: Putting together a tight-knit mastermind group of ten-ish serious female founders/specialists.**\n\nI saw a post floating around about skipping huge, noisy 2,000-person communities in favor of a small \"squad\" of 10-12 active builders with diverse skill sets.\n\nI'd love to organize a small private group like this for us to inspire each other, share feedback, resources, troubleshoot bottlenecks, and support each other's launches. It\u2019d be great to have a go-to sounding board to bounce ideas off of, get a second pair of eyes, or ask quick questions.\n\n  \n**The goal is to build a group where everyone brings a distinct area of expertise. I'm aiming for different, non-overlapping skill sets across the group so we can truly lean on each other's strengths (e.g., marketing, sales, ops, finance, design, growth, etc.).**\n\n**If you're interested, drop a comment below with:**\n\n* **What you\u2019re working on & what stage it\u2019s in**\n* **What you do & your main area of expertise**\n* **What skill/help you\u2019re looking for from a peer group**\n\n  \nOn my end:\n\n* **What you\u2019re working on / What stage it's in:** I am working on a website/desktop/mobile app designed specifically for artists and visual creators to manage their creative workflow, competing against legacy and expensive alternatives that I found out there. I'm a senior software engineer at a big tech company, but I\u2019m also a practicing artist with a background in art curatorship, so this space is very close to my heart.\n* **What you do / Your main area of expertise:** My core strength is engineering and technical product development, with hands-on experience in UI/UX design. I'm a London-based senior software engineer holding a UK Exceptional Talent endorsement.\n* **What skill/help you\u2019re looking for from a peer group:** I\u2019m currently building in stealth and diving deep into go-to-market strategies, so I\u2019d love advice on growth, marketing, and commercialization, plus occasional second pairs of eyes on product UX/UI.\n\nLet's see if we can get a great mix together!",
+  "send_replies": true,
+  "spoiler": false,
+  "stickied": false,
+  "subreddit": "Femalefounders",
+  "subreddit_id": "t5_3cl3u",
+  "subreddit_name_prefixed": "r/Femalefounders",
+  "subreddit_subscribers": 22701,
+  "subreddit_type": "public",
+  "suggested_sort": null,
+  "thumbnail": "self",
+  "thumbnail_height": null,
+  "thumbnail_width": null,
+  "title": "Looking to assemble a small mastermind of ~10 female founders to support each other (complementary skills)",
+  "top_awarded_type": null,
+  "total_awards_received": 0,
+  "treatment_tags": [],
+  "ups": 25,
+  "upvote_ratio": 0.91,
+  "url": "https://www.reddit.com/r/Femalefounders/comments/1we8w3c/looking_to_assemble_a_small_mastermind_of_10/",
+  "user_reports": [],
+  "view_count": null,
+  "visited": false,
+  "websocket_url": "wss://k8s-lb.wss.redditmedia.com/link/1we8w3c?m=AQAAEXmmaiz4XzJIA0V04HdqlnTFbhAqeRjlxSurPztO4m_MLTHC",
+  "wls": 6
+ },
+ "post_url": "https://arctic-shift.photon-reddit.com/api/posts/ids?ids=1we8w3c",
+ "tree_url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1we8w3c&limit=400",
+ "collected_at": "2026-10-02T01:17:21Z",
+ "comments": [
+  {
+   "id": "p9c74rq",
+   "parent_id": "t3_1we8w3c",
+   "author": "weaselus_maximus",
+   "score": 7,
+   "depth": 0,
+   "body": "Sounds intriguing!  \n\\- Working on: new consumer brand in the health & wellness space and developing my personal brand via content creation.  \n\\- What you do: 10+y running a B2C physical product company with multiple brands. So branding, marketing, product dev, logistics, internationalisation, etc  \n\\- Looking for: AI natives, content creators, driven ladies!"
+  },
+  {
+   "id": "p9dgg5s",
+   "parent_id": "t1_p9c74rq",
+   "author": "Novel_Taro_1052",
+   "score": 1,
+   "depth": 1,
+   "body": "Sent you a dm"
+  },
+  {
+   "id": "p9c7ez5",
+   "parent_id": "t3_1we8w3c",
+   "author": "Opening_Log_6674",
+   "score": 4,
+   "depth": 0,
+   "body": "Hi! That\u2019s a great idea \ud83d\udca1 I\u2019d love to join. I\u2019m 38F living in Germany, originally from Japan.\n\n\u2022 **What you\u2019re working on & what stage it\u2019s in**\n\nI\u2019m currently developing KATAN, a plant-focused product brand. I\u2019m still at a very early ideation and research stage, exploring different materials and production methods, including ceramics, concrete, and biomaterials.\n\nI have a background in making and shaping things by hand, and I\u2019ve always enjoyed working with physical materials. Through growing and styling indoor plants, I started thinking about whether there could be new ways of displaying and training houseplants that don\u2019t really exist yet. This led me to explore the development of products that offer new ways of shaping and presenting indoor plants.\n\nAs part of my material research, I also started learning about biomaterials. The more I learn, the more I feel that this field has huge potential. It is socially important and there is growing public interest in it, but I think there is still a lot of unexplored potential. So alongside using biomaterials for KATAN products, I\u2019m also thinking about whether biomaterials themselves could eventually become a business opportunity.\n\nI\u2019ve also started building KATAN\u2019s Instagram and TikTok accounts (@katan.de\\_jp), with the long-term goal of developing the products into an e-commerce business.\n\n\u2022 **What you do & your main area of expertise**  \nI\u2019m a photographer and visual content creator with 10+ years of professional experience, mainly specializing in product photography, visual storytelling, content creation, and post-production.\n\nI also have experience with hands-on making and shaping objects, and I\u2019m currently combining that interest with my experience in visual communication to explore product development and material research.\n\n\u2022 **What skill/help you\u2019re looking for from a peer group**  \nHonestly, almost everything outside my own field! \ud83d\ude04  \nI\u2019m comfortable with photography and visual communication, but I\u2019m still learning about product development, materials and manufacturing, pricing, e-commerce, marketing, sales, and business strategy.  \nSince I\u2019m still at a very early stage, I\u2019d love to get honest feedback on my ideas, exchange perspectives with people from completely different fields, and learn from people who have already turned an idea into an actual product or business.\n\nI\u2019m especially interested in meeting and getting inspired by other female founders/builders and learning how they developed their ideas and overcame the challenges along the way.  \nAnd of course, I\u2019d also be happy to contribute my own knowledge and experience in photography and visual storytelling to the group. I also think I could offer some insights into the Asian market."
+  },
+  {
+   "id": "p9iyq5o",
+   "parent_id": "t1_p9c7ez5",
+   "author": "AV_SG",
+   "score": 1,
+   "depth": 1,
+   "body": "wow .. material research , especially the bio based has a lot of potential to reduce pollution and is mostly sustainable. what kind of products can be made with the material ? "
+  },
+  {
+   "id": "p9jn86d",
+   "parent_id": "t1_p9iyq5o",
+   "author": "Opening_Log_6674",
+   "score": 2,
+   "depth": 2,
+   "body": "That\u2019s the question, there\u2019s some major bio material receipts and I experiment first to know them. I have some ideas of products for house plant, if I can make them with sustainable materials that would be great. But I don\u2019t have background of science, so I rather approach with my modeling skills."
+  },
+  {
+   "id": "p9ceq1g",
+   "parent_id": "t3_1we8w3c",
+   "author": "Bubblegum-Tree_777",
+   "score": 3,
+   "depth": 0,
+   "body": "Sounds so cool! \n\n* **What you\u2019re working on & what stage it\u2019s in:**\nI'm a freshgraduate so I technically don't have anything I'm working on right now. But for my thesis project I made a working wearable device that logs movement and detects certain movements, classifying then with ML. The first prototype is finished and although satisfactory, I need to work on my next iteration when I have the time after finishing the closing requirements of my scholarship.\nWhat I'm planning to work on though is my own dev board with a 4 lager PCB to start my multilayer PCB design journey.\n\n* **What you do & your main area of expertise:**\nHardware Engineer and RnD! I love to work with boards and components. Hands on work in either assembling or designing is something I love to expand and build. \n\nI also teach! And I have a 3D modelling side hobby that I'm still learning on.\n\n\n* **What skill/help you\u2019re looking for from a peer group:**\nFinancing. Maybe it's because I haven't land myself on a real job with real pay yet, but the thought of managing money seems scary to me. Haha! I also would love to someday launch my own product so marketing and advertising consultants are people I look forward to meeting!\n\n  \n"
+  },
+  {
+   "id": "p9cet02",
+   "parent_id": "t3_1we8w3c",
+   "author": "thatkatisback",
+   "score": 2,
+   "depth": 0,
+   "body": "I\u2019m building a mental-load unload app, currently stealth / pre-launch. I\u2019m starting with parents, but the longer-term goal is much broader: anyone who feels like they\u2019re constantly drowning in to-do lists, emails, reminders, appointments and life admin.\n\nMy background is most recently B2B enterprise sales in SaaS at startups, with experience in GTM strategy, outbound, territory development and client-facing commercial roles. I also have a background in product/manufacturing environments and currently work in a territory management role at a startup.\n\nI\u2019d especially love to connect with people with backgrounds in B2C SaaS, UX/product, AI/engineering, growth marketing, lean launches, and anyone who has experience raising in the UK. Very happy to contribute on the sales/GTM side too: positioning, outbound, customer conversations, commercial strategy, etc."
+  },
+  {
+   "id": "pa6ho83",
+   "parent_id": "t1_p9cet02",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9clpim",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9cr63t",
+   "parent_id": "t3_1we8w3c",
+   "author": "maddiestern",
+   "score": 2,
+   "depth": 0,
+   "body": "Ah this sounds amazing! I\u2019m currently working on building a consumer goods brand, specifically in the TCG/tabletop gaming space but focusing primarily on women.\n\nMy background is in marketing, particularly brand management, strategy, and digital content. I also have experience in design (working with existing brand guidelines ) and copywriting. I\u2019m an abstract painter outside of this, so I particularly love your concept!!! \n\nI\u2019m honestly looking for people to bounce ideas off of, as I\u2019m I brainstorm best when working with others and love to challenge ideas/tackle problems with people. "
+  },
+  {
+   "id": "p9dghj5",
+   "parent_id": "t1_p9cr63t",
+   "author": "Novel_Taro_1052",
+   "score": 1,
+   "depth": 1,
+   "body": "Sent you a dm!"
+  },
+  {
+   "id": "p9cs6b6",
+   "parent_id": "t3_1we8w3c",
+   "author": "West-Farm3284",
+   "score": 1,
+   "depth": 0,
+   "body": "I'm working in the tech industry as a developer, shipped multiple apps before and right now building a consumer app. We have early paying users now.\n\nOther than building my own app, i provide consultation and develop other people's products too. My main area of expertise is Software Engineering and UI/UX. \n\nI would like to learn more about marketing, sales and growth."
+  },
+  {
+   "id": "p9cvx8n",
+   "parent_id": "t3_1we8w3c",
+   "author": "seaofamillionroses",
+   "score": 2,
+   "depth": 0,
+   "body": "I'm a noob to the entrepreneur space, but I've finally started tinkering with SaaS/coding things. \n\nI work as a junior cloud engineer in Japan. I could perhaps help with research on hosting, etc. Or, if you ever plan to serve the Japanese market, I could help there since I'm a Japanese citizen. I also speak french. \n\nI want to meet people who are doing things for their own company. The first dollar seems so far away to me in YouTuber influencer/strangers on the internet land and I'd love to meet people actually doing it. "
+  },
+  {
+   "id": "p9d1mih",
+   "parent_id": "t3_1we8w3c",
+   "author": "TheMostFluffyCat",
+   "score": 1,
+   "depth": 0,
+   "body": "What I\u2019m working on and what stage it\u2019s in: I work in finance. I\u2019m continuing to grow my firm. I\u2019ve been in business for 7 years and it\u2019s grown a lot, but still working on growing it more until I get to my growth goal.\n\nWhat I do and my main area of expertise: I\u2019m a CPB (Certified Public Bookkeeper). I offer bookkeeping services to small businesses, with primary focus in high/volume, complex ecommerce businesses.\n\nWhat skill/help I\u2019m looking for from a peer group: I really struggle with marketing. I\u2019m not a salesey person, so while my business is solid and my roster healthy, I\u2019d love to continue growing it to be more robust. "
+  },
+  {
+   "id": "p9d9621",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9e0z2i",
+   "parent_id": "t3_1we8w3c",
+   "author": "xilionyx",
+   "score": 1,
+   "depth": 0,
+   "body": "I'm very creative, with an strong entrepreneurial spirit. \nExperienced creative business lady that starts over again. Self-taught. \n\nI'm an experienced wedding dress Couturier. \n\nNow i start -besides still wedding dresses- over as a Wedding and Event Stylist and designer, i design, make and rent out Statement pieces, Silk / Flower arrangements etc.\n\nI have build my own website in Wix. \nI just started again on Insta, Pinterest, Tik Tok. \nGood i guess in SEO, always lots of vieuws on my former webpage and now Pinterest.\n\nI'm about to buy my domain and to post my first posts but have after years being in between business cold water fear \ud83d\ude05\nAnd a lack of space and running out of budget (a small heritage), but i could invest in the basis, and some more. \n\nSkills i miss; i've an invisible handicap so i'm homebound. \nAlso a bit unsure towards finance, book keeping, tax and presentation on Social Media. And i've Audhd but thats my power at the same time. \n\nI'm very social, idealist. Loaded with positive energy. \nOpen, honest and reliable, supportive, good coach and understanding and expect the same from others. \nI'm full of idea's, an contrarian and out of the box thinker, so that makes me very creative, flexibel, and inventive.  \nGood natural coach and delegating manager.\n\nHome based business in the Netherlands. \n"
+  },
+  {
+   "id": "p9e2h4u",
+   "parent_id": "t3_1we8w3c",
+   "author": "Sad_Boat_3636",
+   "score": 1,
+   "depth": 0,
+   "body": "Hello all. I would love to have a group of women who inspire and push me, and I believe this is a great idea and opportunity!"
+  },
+  {
+   "id": "p9e5g63",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9e764r",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9ej15r",
+   "parent_id": "t3_1we8w3c",
+   "author": "False-Tennis-3987",
+   "score": 3,
+   "depth": 0,
+   "body": "Hi there, that might be a great chance to actually be in a small band of a good mix.\n\nWhat iam working on: An Actor-Centric intelligence Platform, fusion of AI, structured analytic techniques and operator decision making for Cyber Threat Intelligence and Research, mainly attributing Nation State Espionage Statecraft. It is in testing phase - 70% functional.\n\nWhat I do: Cyber Threat Research and Intelligence Analyst, I am preparing for strategic studies - very hard to accommodate effort for that along side being a practitioner but I am trying on my free time to see how it goes.\n\nSkills I am looking for in the group: Mainly tech, AI, software engineering and cyber intelligence and  THRIVING for growth. \n\nWould be great to be connected and having nice conversations with driven like minded females!"
+  },
+  {
+   "id": "p9ezxmm",
+   "parent_id": "t3_1we8w3c",
+   "author": "LimitlessTurbo750",
+   "score": 1,
+   "depth": 0,
+   "body": "I'm working on a directory site and community for entrepreneurs with adhd. My site currently has a directory of adhd business coaches and other tools and resources for adhd entrepreneurs.  I just launched the first version of the site yesterday. \n\nMy area of expertise is mainly sales and marketing. \n\nI would be looking for help surrounding planning out the next steps for the site and my other ideas. "
+  },
+  {
+   "id": "p9fybnk",
+   "parent_id": "t3_1we8w3c",
+   "author": "MellowMelodySoul",
+   "score": 2,
+   "depth": 0,
+   "body": "I\u2019d be interested!\n\n**What I\u2019m working on / stage:** I\u2019m building an early-stage digital product and currently focusing on validation, positioning, and preparing for an initial pilot.\n\n**My main area:** Early-stage product strategy, customer validation, community building, research, and turning an idea into something people genuinely need before overbuilding.\n\n**What I\u2019m looking for:** I\u2019d especially value support around growth, product strategy, branding, commercialization, and honest feedback from other founders.\n\nI\u2019d also be happy to help others with validation, positioning, brainstorming, research, and giving a fresh perspective on their products.\n\nI\u2019d love to be part of a smaller group where people can actually build trust and support each other consistently."
+  },
+  {
+   "id": "p9g2bri",
+   "parent_id": "t1_p9fybnk",
+   "author": "Sensitive-Hearing-",
+   "score": 1,
+   "depth": 1,
+   "body": "Hey, can you message me? "
+  },
+  {
+   "id": "p9g8yo3",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9gi4sn",
+   "parent_id": "t3_1we8w3c",
+   "author": "hereforhumanvibes",
+   "score": 1,
+   "depth": 0,
+   "body": "This is such a great idea, I would love to join and help each other! I'm working on a reflection app to help people notice more of the valuable ways they show up in every day life. I'm building the prototype and design system right now."
+  },
+  {
+   "id": "p9gyfek",
+   "parent_id": "t3_1we8w3c",
+   "author": "ajarofpickles_",
+   "score": 2,
+   "depth": 0,
+   "body": "Hi! Love this idea, thanks for pitching it. 10+ years building a brand product business, with experience in brand marketing, ecomm website design / Shopify, klaviyo email marketing, managing a tiny team, but my focus expertise is probably organic social media and building a community of customers through it. \n\nI\u2019m looking for help on paid ads (currently trying meta but Google is next), scaling when hitting a time/ cash flow ceiling, AI agents, and service based businesses (I do some coaching on the side but I am looking to expand to programs etc!) "
+  },
+  {
+   "id": "p9hjkob",
+   "parent_id": "t3_1we8w3c",
+   "author": "Background-Egg-8893",
+   "score": 1,
+   "depth": 0,
+   "body": "Hi there, this is such a great innitiative and I\u2019d love to join if there are still spots left.\n\nI am a software engineer by trade and recently quit my big tech corporate job after 12 years in the industry to go all in as a solopreneur. I am based in Boston, MA, USA.\n\nI just launched an iOS app about a month ago - a daily photo journal and cat care tracker. I am about to launch a study/tool web platform for individuals who are beginners to learning astrology. I am currently focusing on marketing these two products - trying everything atm: creating content, building a personal brand, meta ads etc. I am a completel newbie to marketting and probably learning the hard way by experimenting on a bunch of different things at the moment. \n\nI would be very happy to help folks with anything technical- development, QA, security audit etc. I am very much looking for advice on how to market my products and customer aquisition.  "
+  },
+  {
+   "id": "p9hn7dd",
+   "parent_id": "t3_1we8w3c",
+   "author": "Most-Cauliflower-185",
+   "score": 1,
+   "depth": 0,
+   "body": "Im currently working on several projects. I would like to join "
+  },
+  {
+   "id": "p9iz6db",
+   "parent_id": "t3_1we8w3c",
+   "author": "AV_SG",
+   "score": 1,
+   "depth": 0,
+   "body": "Lovely to see such motivated ladies building upon their ideas and making a positive change in this world! I am working on Industrial AI research ...specifically enabling sustainability in manufacturing. So in my very initial stages of customer discovery. "
+  },
+  {
+   "id": "p9jmjbf",
+   "parent_id": "t3_1we8w3c",
+   "author": "desertwellness",
+   "score": 1,
+   "depth": 0,
+   "body": "Fun!\n\nWorking on: i own a couple spa and wellness locations and have been moving into the wellness retreat industry for the past year and a half. \n\nWhat i do,  area of expertise:  Spa owner / massage therapist.   We specialize in offering unique body and wellness treatments and have received reviews from Washington Times,  Matador Network  and Financial Times to name a few.\n\nWhat skill / help I am looking for from a peer group:    There is always more to learn, and I am climbing out of my first ever work burn out after losing my mother and going through a divorce at the same time.   I wear all the hats in my company, and would to be part of s support system of powerful women"
+  },
+  {
+   "id": "p9kzilp",
+   "parent_id": "t3_1we8w3c",
+   "author": "Substance-Jolly",
+   "score": 1,
+   "depth": 0,
+   "body": "Im interested depending on timezones.  \nI have lived and worked all over the world (5 continents), currently in Barcelona. I\u2019m great at doing business deals, I\u2019m working on an online school by African teachers, and also currently In negotiations to take over a hostel (let\u2019s hope)\n\nI have a background in digital marketing, running local businesses and taking over distressed businesses. \n\nI need help with accountability doing the boring stuff (for me that is the paperwork) and creating a team."
+  },
+  {
+   "id": "p9ld8f4",
+   "parent_id": "t3_1we8w3c",
+   "author": "Equivalent-Steak8348",
+   "score": 1,
+   "depth": 0,
+   "body": "wait I actually LOVE this idea \ud83d\ude2d I\u2019m building a women\u2019s health/femtech startup \n\nWe\u2019re early stage but already have a product + customers, and I\u2019m currently focused on figuring out growth + scaling\n\nMy background is in digital business, branding/marketing, consumer behaviour + strategy, and I\u2019m definitely more of a big picture/ideas person\n\nI\u2019d love to connect with people stronger in growth, sales, finance, ops + scaling, and honestly accountability too because solo founder life gets a little TOO solo sometimes lol, est coast time! \n\nWould def be interested if you\u2019re still putting the group together!!"
+  },
+  {
+   "id": "p9leyq5",
+   "parent_id": "t3_1we8w3c",
+   "author": "anderreas",
+   "score": 1,
+   "depth": 0,
+   "body": "Andolute great idea enjoy "
+  },
+  {
+   "id": "p9mch9q",
+   "parent_id": "t3_1we8w3c",
+   "author": "EV_Lily",
+   "score": 1,
+   "depth": 0,
+   "body": "Licensed cannabis edibles company, generating revenue and expanding; CEO + CLO (Chief legal officer); marketing "
+  },
+  {
+   "id": "pbvt59k",
+   "parent_id": "t1_p9mch9q",
+   "author": "wearealllegends",
+   "score": 1,
+   "depth": 1,
+   "body": "That was my past life"
+  },
+  {
+   "id": "p9pboc5",
+   "parent_id": "t3_1we8w3c",
+   "author": "GreatQuestion2364",
+   "score": 1,
+   "depth": 0,
+   "body": "This is interesting:) I\u2019d be happy to join and contribute. Fits my project mission quite well! \n\nI\u2019m building velvt.ai which is an assurance layer and observatory for agents. It\u2019s agent-native, they can collaborate, communicate, share skills, help each other and more. \n\nJust ran a bounty where a bunch of agents participated and came up with some pretty intriguing solutions. \n\nIt\u2019s scaling steadily and i already need to seek support from database providers, cloud and llm. Bounty support would be good, too, hello sponsors and @base! \n\nhttps://www.velvt.ai/observatory\n\nSo everything you see (and don\u2019t see) i built. I\u2019d be pleased to help other female founders on their journey and share experiences, lessons, network and so on!"
+  },
+  {
+   "id": "p9pboyy",
+   "parent_id": "t3_1we8w3c",
+   "author": "GreatQuestion2364",
+   "score": 1,
+   "depth": 0,
+   "body": "This is interesting:) I\u2019d be happy to join and contribute. Fits my project mission quite well! \n\nI\u2019m building velvt.ai which is an assurance layer and observatory for agents. It\u2019s agent-native, they can collaborate, communicate, share skills, help each other and more. \n\nJust ran a bounty where a bunch of agents participated and came up with some pretty intriguing solutions. \n\nIt\u2019s scaling steadily and i already need to seek support from database providers, cloud and llm. Bounty support would be good, too, hello sponsors and @base! \n\nhttps://www.velvt.ai/observatory\n\nSo everything you see (and don\u2019t see) i built. I\u2019d be pleased to help other female founders on their journey and share experiences, lessons, network and so on!"
+  },
+  {
+   "id": "p9pm9t1",
+   "parent_id": "t3_1we8w3c",
+   "author": "faberoro09876",
+   "score": 1,
+   "depth": 0,
+   "body": "Love the idea!\n\nI am working on a legal education startup that helps lawyers learn how to actually practice law.  I am still in the early stages of planning and building.\n\nI have been a practicing IP lawyer for over 20 years. Previously co-founded a fraud prevention saas serving e-commerce merchants. I am somewhat technical, having studied engineering and worked in consulting prior to law school. My core strength is IP strategy and making sure they align with business strategies.\n\nI am looking for marketing expertise and just generally some camaraderie. Being a founder is quite a lonely journey**.**"
+  },
+  {
+   "id": "pa6lolx",
+   "parent_id": "t1_p9pm9t1",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 1,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9q4qva",
+   "parent_id": "t3_1we8w3c",
+   "author": "[deleted]",
+   "score": 1,
+   "depth": 0,
+   "body": "[removed]"
+  },
+  {
+   "id": "p9xehhw",
+   "parent_id": "t3_1we8w3c",
+   "author": "Glittering_Ad1178",
+   "score": 1,
+   "depth": 0,
+   "body": "That is such a cool idea! Small, intimate communities bring the most value!   \nI am a consultant. Transitioned from 10 years in investment banking to supporting early stage startups for their fundraising rounds.   \nWe are currently in ideation stage and testing which product will click the most with my icp if I were to scale it using AI.   \nHappy to help anyone in the community review their numbers, fine tune their financial strategy, optimise pricing etc."
+  },
+  {
+   "id": "p9xem33",
+   "parent_id": "t1_p9xehhw",
+   "author": "Glittering_Ad1178",
+   "score": 1,
+   "depth": 1,
+   "body": "Oh and what I am looking for - feedback on my product"
+  },
+  {
+   "id": "p9yi9xi",
+   "parent_id": "t3_1we8w3c",
+   "author": "Sad_Boat_3636",
+   "score": 1,
+   "depth": 0,
+   "body": "Hello,   \nAny updates on whether a group was formed or not?!\n\n"
+  },
+  {
+   "id": "p9z6vjc",
+   "parent_id": "t3_1we8w3c",
+   "author": "BelSkinCare",
+   "score": 1,
+   "depth": 0,
+   "body": "If there's space, I'd love to join!\n\n**What I'm working on & what stage it\u2019s in:**\n\nI'm sourcing information for a gentle sunscreen brand for sensitive skin that doesn't irritate the eyes.\n\n**What you do & your main area of expertise**\n\nI'm a creative project manager for an agency by day and have built a nail sticker business in the past that's done some cool partnerships with brands like Nike, JD Sports and Kendra Scott. I'm well versed in creative operations: brand shoots, finding photographers, designers, etc. Usually my production crew is filled with women.\n\n**What skill/help you\u2019re looking for from a peer group**\n\nI'm looking for information around sourcing manufacturers and building an affiliate group who can promote my waitlist pre-launch"
+  },
+  {
+   "id": "p9zu9ie",
+   "parent_id": "t3_1we8w3c",
+   "author": "Nermine2525",
+   "score": 1,
+   "depth": 0,
+   "body": "Je suis enseignante de la langue fran\u00e7aise d'\u00c9gypte.\nJe donne des cours en ligne pour les enfants et les adultes et le DELF.\nJe peux vous aider \u00e0 savoir comment \u00e9tudier facilement et am\u00e9liorer votre niveau."
+  },
+  {
+   "id": "pa2ul55",
+   "parent_id": "t3_1we8w3c",
+   "author": "Kitchen-Quality-3357",
+   "score": 2,
+   "depth": 0,
+   "body": "I\u2019d be interested. I\u2019m building two businesses right now: INDYpendent Bytes, a food-system coordination infrastructure company currently in R&D/validation, and Uncommon Logic Systems, where I design operating systems, decision architecture, and technical systems for complex real-world problems.\nMy strongest lane is systems design \u2014 figuring out how all the actors, rules, constraints, data, decisions, and workflows have to fit together before (and while) software gets built. I\u2019m especially strong at turning messy operational problems into structured systems and identifying where a product or process will break before implementation.\nWhat I\u2019m looking for is almost the inverse of what you bring: stronger technical engineering/product-development peers who can pressure-test whether what I design is technically sound, help me distinguish \u201carchitecturally possible\u201d from \u201cpractical to build,\u201d and challenge my technical assumptions as my systems get more sophisticated.\nI\u2019d definitely be interested in seeing whether there\u2019s a fit."
+  },
+  {
+   "id": "pa53tu8",
+   "parent_id": "t3_1we8w3c",
+   "author": "reason5014",
+   "score": 1,
+   "depth": 0,
+   "body": "Hi, I\u2019d love to join!\n\n**What I'm working on / what stage it's in:** Building Provvy, a B2B SaaS platform that automates IT onboarding, offboarding, and access management for SMBs. Solo-built, self-serve, live on AWS with both major identity providers connected, actively prospecting my first customers now.\n\n**What I do / my main area of expertise:** Technical operations and infrastructure. I design and build the whole stack myself, backend automation, identity/access workflows, cloud infrastructure. Been doing IT support and contracting work for 8+ years, so I bring hands-on systems knowledge as well as the build side.\n\n**What I'm looking for from a peer group:** Go-to-market help, mainly. I can build anything the product needs but early-stage sales and outbound strategy for a security/IT tool is newer territory for me. Would also value having other early founders to sanity-check pricing and positioning decisions with."
+  },
+  {
+   "id": "pa7hl9q",
+   "parent_id": "t3_1we8w3c",
+   "author": "music_mumma",
+   "score": 1,
+   "depth": 0,
+   "body": "What I'm working on / stage:  Building a music specific ecosystem that includes a movement, a streaming platform, a financial management tool, and a promo layer, all designed to protect and empower human-created independent music globally. Actively building, in beta, pre-launch.\n\nWhat I do / expertise: Founder & CEO, 3X business owner, deep experience in business process management and music industry economics and business strategy. I manage my daughter, also an independent artist, she is also a co-founder in the business, so I see the \"unsigned musician\" problem from both the industry and the artist side. \n\nWhat I need from the group: Community-led growth over paid acquisition, this is a movement and needs to be treated as such. Way out of my league in this area of marketing. I'm probably older than the average redditor but our mom/daughter founder team experiences the tech-bro, male dominated start up industry every day. Someone below said, \"a social group for women to badasses and dominate online or groups in person could be very beneficial.\" \u2b05 Even at my age, I'm still searching for more of this!  \ud83e\udd18\ud83c\udffb"
+  },
+  {
+   "id": "pakmobu",
+   "parent_id": "t3_1we8w3c",
+   "author": "Repulsive_Slip_6637",
+   "score": 1,
+   "depth": 0,
+   "body": "**I love this idea!**\n\n* **What you\u2019re working on & what stage it\u2019s in:** Building out a coaching practice specifically focused on supporting working women and mothers. Developing a content creation brand around this. I have been coaching certified for many years but haven't put it into a lot of practice.\n* **What you do & your main area of expertise:** Apart from being an ICF certified coach I am a product management executive with 10 years developing software products specifically in B2B2C space in fintech and hospitality.\n* **What skill/help you\u2019re looking for from a peer group:** I'd love to learn about content and brand development, growth experts\n\n"
+  },
+  {
+   "id": "pbwc219",
+   "parent_id": "t3_1we8w3c",
+   "author": "MaintenanceOk5675",
+   "score": 1,
+   "depth": 0,
+   "body": "**What I'm working on / What stage it's in:** I run Lanore Fine Jewelry, a made-to-order custom engagement ring and fine jewelry brand based out of NYC, just passed 3 years. I went full-time in January after leaving Google where I worked in paid media, and I'm now expanding into a costume jewelry line and brand collaborations. I call myself  a \"diamond therapist\" because I make one of the biggest purchases of your life feel personal and fun.\n\n**What I do / My main area of expertise:** Sales, luxury retail, and organic content. I spent 10 years at NYC's top jewelry houses, including building and scaling an engagement design department, and I now consult on building and training sales teams. I\u2019m also starting back up a quarterly founders' dinner club in NY after hosting it in SF, and San Diego, so I enjoy community building.\n\n**What skill/help I'm looking for from a peer group:** Finance and ops (cash flow, scaling a lean business), luxury marketing strats, scaled product manufacturing, scaling in general! "
+  },
+  {
+   "id": "pcbsrbw",
+   "parent_id": "t3_1we8w3c",
+   "author": "asyncfounder",
+   "score": 1,
+   "depth": 0,
+   "body": "I am interested! \n\nEarly-stage consulting firm.\n\nFocused on improving the user experience to help businesses attract and retain customers. Main areas of expertise are in product and operations, particularly in tech startups.\n\nLooking for help with sales and marketing."
+  }
+ ]
+}
